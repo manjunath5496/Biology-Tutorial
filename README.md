@@ -1531,53 +1531,53 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(20).pdf" style="text-decoration:none;">Organic Chemistry I Workbook For Dummies</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(21).pdf" style="text-decoration:none;">Chemistry for Pharmacy Students</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(21).pdf" style="text-decoration:none;">Systems Biology: A Textbook</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(22).pdf" style="text-decoration:none;">MCQs in Biochemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(22).pdf" style="text-decoration:none;">Cell Biology Protocols</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(23).pdf" style="text-decoration:none;">XII Chemistry Study Material</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(24).pdf" style="text-decoration:none;">Environmental Monitoring and Characterization</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(25).pdf" style="text-decoration:none;">Quantum Chemistry and molecular interactions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(23).pdf" style="text-decoration:none;">A Level Biology for AQA</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(24).pdf" style="text-decoration:none;">Chemical and Biological Synthesis: Enabling Approaches for Understanding Biology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(25).pdf" style="text-decoration:none;">Biology the Easy Way (E-Z Biology)</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(26).pdf" style="text-decoration:none;">Introduction to Colloid and Surface Chemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(26).pdf" style="text-decoration:none;">Oxford Dictionary of Biochemistry and Molecular Biology </a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(27).pdf" style="text-decoration:none;">Wine Chemistry and Biochemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(27).pdf" style="text-decoration:none;">Advanced Biology through Inquiry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(28).pdf" style="text-decoration:none;">Solving General Chemistry Problems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(29).pdf" style="text-decoration:none;">Organic Chemistry Principles in Context</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(30).pdf" style="text-decoration:none;">The Handy Chemistry Answer Book</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(28).pdf" style="text-decoration:none;">Advances in marine biology advances in Cephalopod Science: Biology, Ecology, Cultivation and Fisheries. Volume-67</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(29).pdf" style="text-decoration:none;">Advances in Structural Biology, Volume 6</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(30).pdf" style="text-decoration:none;">The Manga Guide to Molecular Biology</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(31).pdf" style="text-decoration:none;">Solutions manual to accompany Organic Chemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(31).pdf" style="text-decoration:none;">Immunology and Cell Biology of Parasitic Diseases</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(32).pdf" style="text-decoration:none;"> Physical Chemistry Part 1 for IIT JEE Mains and Advanced</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(32).pdf" style="text-decoration:none;"> Genomics and Proteomics Engineering in Medicine and Biology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(33).pdf" style="text-decoration:none;">Problems In Physical Chemistry For JEE Main and Advanced </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(34).pdf" style="text-decoration:none;">Statistical Methods in Analytical Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(35).pdf" style="text-decoration:none;">Class 12: Chemistry (Part I)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(33).pdf" style="text-decoration:none;">Cancer Biology </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(34).pdf" style="text-decoration:none;">Basic Radiotherapy Physics and Biology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(35).pdf" style="text-decoration:none;">The Evolution of the Genome</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(36).pdf" style="text-decoration:none;">Food Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(37).pdf" style="text-decoration:none;">Chemistry: Concepts and Problems: A Self-Teaching Guide</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(36).pdf" style="text-decoration:none;">Computational Systems Biology Methods in Molecular Biology, Chemistry Biology, Molecular Biomedicine, and Biopharmacy</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(37).pdf" style="text-decoration:none;">The Gale Encyclopedia of Alternative Medicine</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(38).pdf" style="text-decoration:none;">Schaum's Outline of Organic Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(38).pdf" style="text-decoration:none;">30 Years NEET-AIPMT Chapterwise Solutions - Biology </a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(39).pdf" style="text-decoration:none;"> The Pearson Guide to Inorganic Chemistry for the IIT JEE </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(39).pdf" style="text-decoration:none;"> Biology: Volume 4 Pr–Z Cumulative Index </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(40).pdf" style="text-decoration:none;">Atkins' Physical Chemistry</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(41).pdf" style="text-decoration:none;">Writing Reaction Mechanisms in Organic Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(42).pdf" style="text-decoration:none;">Chemical Warfare Agents: Chemistry, Pharmacology, Toxicology, and Therapeutics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(40).pdf" style="text-decoration:none;">The Kingdom Fungi</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(41).pdf" style="text-decoration:none;">Stem Cells: From Basic Research to Therapy, Volume 1: Basic Stem Cell Biology, Tissue Formation during Development, and Model Organisms</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(42).pdf" style="text-decoration:none;">Fundamental Biology for O Level Teaching Guide</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(43).pdf" style="text-decoration:none;">Safety at Work</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(44).pdf" style="text-decoration:none;"> IIT JEE Super Course in Chemistry: Organic Chemistry</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(45).pdf" style="text-decoration:none;">Advanced Structural Inorganic Chemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(43).pdf" style="text-decoration:none;">HIV Molecular Immunology 2002</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(44).pdf" style="text-decoration:none;"> Reproductive biology and early life history of fishes in the Ohio River drainage: Volume 4</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(45).pdf" style="text-decoration:none;">Oceanography and Marine Biology: An Annual Review, volume 47</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(46).pdf" style="text-decoration:none;">Heterocyclic Chemistry at a Glance</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(47).pdf" style="text-decoration:none;">Chemistry</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(48).pdf" style="text-decoration:none;">Illustrated Guide to Home Chemistry Experiments</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(46).pdf" style="text-decoration:none;">Principles and Techniques of Biochemistry and Molecular Biology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(47).pdf" style="text-decoration:none;">Fungal Biology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(48).pdf" style="text-decoration:none;">Cancer Systems Biology</a></li>  
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(49).pdf" style="text-decoration:none;">Reagent Guide: Synthetic Organic Chemistry and Materials Chemistry</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(50).pdf" style="text-decoration:none;">The Pearson Guide to Physical Chemistry for the IIT JEE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(49).pdf" style="text-decoration:none;">Applied Statistics for Network Biology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(50).pdf" style="text-decoration:none;">Statistics for Biology and Health</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(51).pdf" style="text-decoration:none;">Physical Inorganic Chemistry: A Coordination Chemistry Approach</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(52).pdf" style="text-decoration:none;">A Guidebook to Mechanism in Organic Chemistry</a></li> 
