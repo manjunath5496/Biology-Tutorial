@@ -1528,7 +1528,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(18).pdf" style="text-decoration:none;">Bioinformatics and Computational Biology Solutions Using R and Bioconductor</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(19).pdf" style="text-decoration:none;">Biology of Marine Birds</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(20).pdf" style="text-decoration:none;">Organic Chemistry I Workbook For Dummies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(20).pdf" style="text-decoration:none;">, Are We Smart Enough to Know How Smart Animals Are?</a></li>
 
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(21).pdf" style="text-decoration:none;">Systems Biology: A Textbook</a></li>
@@ -1600,7 +1600,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(64).pdf" style="text-decoration:none;">CliffsAP Biology</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(65).pdf" style="text-decoration:none;">Instant Notes in Molecular Biology</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(66).pdf" style="text-decoration:none;">5 Steps to a 5 AP Chemistry 2014-2015</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(66).pdf" style="text-decoration:none;"> The Body Electric: Electromagnetism and the Foundation of Life</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(67).pdf" style="text-decoration:none;">
 SAT Subject Test Biology</a></li>                              
