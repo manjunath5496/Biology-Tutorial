@@ -1497,37 +1497,37 @@
 <ul>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(1).pdf" style="text-decoration:none;">Organic Chemistry II for JEE Main and Advanced</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(1).pdf" style="text-decoration:none;">Regulatory RNAs</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(2).pdf" style="text-decoration:none;">Quantum Chemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(2).pdf" style="text-decoration:none;">The Basics of Biology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(3).pdf" style="text-decoration:none;">Solution Manual - Advanced Problems in Organic Chemistry for JEE (Part I)</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(4).pdf" style="text-decoration:none;">Vogel's Textbook of Practical Organic Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(5).pdf" style="text-decoration:none;">Comprehensive Coordination Chemistry II: From Biology to Nanotechnology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(3).pdf" style="text-decoration:none;">Concepts of Biology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(4).pdf" style="text-decoration:none;">Chemistry of Plant Natural Products</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(5).pdf" style="text-decoration:none;">My Max Score SAT Biology E/M Subject Test: Maximize Your Score in Less Time</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(6).pdf" style="text-decoration:none;">Solution Manual - Advanced Problems in Organic Chemistry for JEE (Part II)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(6).pdf" style="text-decoration:none;">Plant Cell Biology: From Astronomy to Zoology</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(7).pdf" style="text-decoration:none;">Chemistry of Plant Natural Products</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(7).pdf" style="text-decoration:none;">Developmental Biology Protocols</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(8).pdf" style="text-decoration:none;">Water Chemistry</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(9).pdf" style="text-decoration:none;">Chemistry 40 Years IIT-JEE Advanced + 16 yrs JEE Main Topic-wise Chapterwise Solved Papers</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(10).pdf" style="text-decoration:none;">Chemistry, Biochemistry and Ayurveda of Indian Medicinal Plants</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(8).pdf" style="text-decoration:none;">Biology of Soil Science</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(9).pdf" style="text-decoration:none;">Anatomy, Histology, and Cell Biology: PreTest Self-Assessment and Review</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(10).pdf" style="text-decoration:none;">Biochemistry, Molecular Biology, and Genetics</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(11).pdf" style="text-decoration:none;">Medicinal Chemistry: A Molecular and Biochemical Approach</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(11).pdf" style="text-decoration:none;">Complete general science: Must for all IAS aspiring students Useful for preliminary and mains</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(12).pdf" style="text-decoration:none;"> Radiochemistry and Nuclear Chemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(12).pdf" style="text-decoration:none;"> Plant Nutrition - Molecular Biology and Genetics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(13).pdf" style="text-decoration:none;"> Class 12 Chemistry 11 Years CBSE Champion Chapterwise Topicwise Questions and Solutions NCERT( 2007 to 2017 ) </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(14).pdf" style="text-decoration:none;"> Environmental Chemistry: Green Chemistry and Pollutants in Ecosystems</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(15).pdf" style="text-decoration:none;">NMR and Chemistry: An introduction to modern NMR spectroscopy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(13).pdf" style="text-decoration:none;">  Cell Biology, Genetics, Molecular Biology, Evolution and Ecology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(14).pdf" style="text-decoration:none;"> Plant Biology and Biotechnology, Volume II: Plant Genomics and Biotechnology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(15).pdf" style="text-decoration:none;">Statistics in Molecular Biology and Genetics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(16).pdf" style="text-decoration:none;">Goyal's IIT Foundation Course: Chemistry for Class 9</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(16).pdf" style="text-decoration:none;">Biology of Disease</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(17).pdf" style="text-decoration:none;">Cracking the SAT Chemistry Subject Test</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(17).pdf" style="text-decoration:none;">The Handy Biology Answer Book</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(18).pdf" style="text-decoration:none;">Foye's Principles of Medicinal Chemistry</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(19).pdf" style="text-decoration:none;">Biophysical Chemistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(18).pdf" style="text-decoration:none;">Bioinformatics and Computational Biology Solutions Using R and Bioconductor</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(19).pdf" style="text-decoration:none;">Biology of Marine Birds</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(20).pdf" style="text-decoration:none;">Organic Chemistry I Workbook For Dummies</a></li>
 
 
