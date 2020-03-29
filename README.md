@@ -1579,27 +1579,27 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(49).pdf" style="text-decoration:none;">Applied Statistics for Network Biology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(50).pdf" style="text-decoration:none;">Statistics for Biology and Health</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(51).pdf" style="text-decoration:none;">Physical Inorganic Chemistry: A Coordination Chemistry Approach</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(52).pdf" style="text-decoration:none;">A Guidebook to Mechanism in Organic Chemistry</a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(53).pdf" style="text-decoration:none;">Handbook on the Physics and Chemistry of Rare Earths</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(54).pdf" style="text-decoration:none;">Physical Chemistry</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(55).pdf" style="text-decoration:none;">Cambridge International AS and A Level Chemistry Revision Guide</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(51).pdf" style="text-decoration:none;"> Biology Demystified</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(52).pdf" style="text-decoration:none;">Python Programming for Biology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(53).pdf" style="text-decoration:none;">Oxidation and Antioxidants in Organic Chemistry and Biology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(54).pdf" style="text-decoration:none;">Game-Theoretical Models in Biology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(55).pdf" style="text-decoration:none;">Topical Revision Notes Biology O Level</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(56).pdf" style="text-decoration:none;">Organic Polymer Chemistry: An Introduction to the Organic Chemistry of Adhesives, Fibres, Paints, Plastics and Rubbers</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(57).pdf" style="text-decoration:none;">Modern Analytical Chemistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(56).pdf" style="text-decoration:none;">Mathematical Models in Biology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(57).pdf" style="text-decoration:none;">Systems Biology Application in Synthetic Biology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(58).pdf" style="text-decoration:none;">Biochemistry For Dummies</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(59).pdf" style="text-decoration:none;">Calculations for A-level Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(58).pdf" style="text-decoration:none;">Biology Student Textbook Grade 10</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(59).pdf" style="text-decoration:none;">Parasitism and Symbiosis</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(60).pdf" style="text-decoration:none;">CBSE Board Class 12 Chemistry: solved papers 2008-2017 in level of difficulty chapters with 3 sample papers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(60).pdf" style="text-decoration:none;">Schaum's Outline of Biology</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(61).pdf" style="text-decoration:none;">Encyclopedia of Physical Science and Technology (Organic Chemistry)</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(62).pdf" style="text-decoration:none;">Advanced Organic Chemistry: Part B: Reactions and Synthesis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(61).pdf" style="text-decoration:none;">Grade 12 Biology: A Foundation for Implementation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(62).pdf" style="text-decoration:none;">Encyclopedia of Biology </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(63).pdf" style="text-decoration:none;"> The Chemistry of Essential Oils and Artificial Perfumes Volume I</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(64).pdf" style="text-decoration:none;">MTG's 30 years NEET/AIPMT Chapter Wise Solutions Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(63).pdf" style="text-decoration:none;"> Philosophy of Biology</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(64).pdf" style="text-decoration:none;">CliffsAP Biology</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(65).pdf" style="text-decoration:none;">Medicinal Chemistry: An Introduction</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(65).pdf" style="text-decoration:none;">Instant Notes in Molecular Biology</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(66).pdf" style="text-decoration:none;">5 Steps to a 5 AP Chemistry 2014-2015</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(67).pdf" style="text-decoration:none;">
