@@ -1682,45 +1682,45 @@ Biology Study Guide</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(114).rar" style="text-decoration:none;">The Genie in Your Genes: Epigenetic Medicine and the New Biology of Intention</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(115).pdf" style="text-decoration:none;">Concise Physical Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(116).pdf" style="text-decoration:none;">Instant Notes: Analytical Chemistry</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(117).pdf" style="text-decoration:none;">Fundamentals of Heterocyclic Chemistry: Importance in Nature and in the Synthesis of Pharmaceuticals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(115).pdf" style="text-decoration:none;">On the Origin of Species </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(116).pdf" style="text-decoration:none;">Darwin's Dangerous Idea: Evolution and the Meanings of Life</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(117).pdf" style="text-decoration:none;">Endless Forms Most Beautiful</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(118).pdf" style="text-decoration:none;">Quantities, Units and Symbols in Physical Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(119).pdf" style="text-decoration:none;">Eat Right for Your Metabolism: The Individualized Diet Plan to Balance Body Chemistry, Lose Weight, and Prevent Disease </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(120).pdf" style="text-decoration:none;">Chemistry Essentials For Dummies </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(118).pdf" style="text-decoration:none;">Gut: The Inside Story of our Body's Most Underrated Organ</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(119).pdf" style="text-decoration:none;"I Contain Multitudes: The Microbes Within Us and a Grander View of Life </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(120).pdf" style="text-decoration:none;">Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life </a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(121).pdf" style="text-decoration:none;"> Pharmaceutical Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(122).rar" style="text-decoration:none;">Heterocyclic Chemistry</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(123).rar" style="text-decoration:none;">Functional Food and Health</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(121).rar" style="text-decoration:none;"> Principles and Practice of Clinical Research</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(122).pdf" style="text-decoration:none;">The Ancestor's Tale: A Pilgrimage to the Dawn of Life</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(123).pdf" style="text-decoration:none;">The Greatest Show on Earth: The Evidence for Evolution </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(124).rar" style="text-decoration:none;">March's Advanced Organic Chemistry: Reactions, Mechanisms, and Structure</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(125).rar" style="text-decoration:none;">Advanced Problems in Physical Chemistry for Competitive Examinations</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(126).rar" style="text-decoration:none;">Physical Chemistry (Gilbert W. Castellan) </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(124).pdf" style="text-decoration:none;">Schaum's Outline of Theory And Problems Of Genetics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(125).pdf" style="text-decoration:none;">Stiff: The Curious Life of Human Cadavers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(126).pdf" style="text-decoration:none;">The Annotated and Illustrated Double Helix </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(127).rar" style="text-decoration:none;">Wilson and Gisvold's Textbook of Organic Medicinal and Pharmaceutical Chemistry</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(128).pdf" style="text-decoration:none;">Elements of Physical Chemistry</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(129).pdf" style="text-decoration:none;">Handbook of Industrial Chemistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(127).pdf" style="text-decoration:none;">The Double Helix: A Personal Account of the Discovery of the Structure of DNA</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(128).pdf" style="text-decoration:none;">The Emperor of All Maladies: A Biography of Cancer</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(129).pdf" style="text-decoration:none;">The Epigenetics Revolution: How Modern Biology is Rewriting Our Understanding of Genetics, Disease and Inheritance</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(130).pdf" style="text-decoration:none;">Shriver and Atkins Inorganic Chemistry </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(131).pdf" style="text-decoration:none;">The Science of Cooking: Understanding the Biology and Chemistry Behind Food and Cooking </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(130).pdf" style="text-decoration:none;">The Gene: An Intimate History </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(131).pdf" style="text-decoration:none;">The Hidden Life of Trees </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(132).pdf" style="text-decoration:none;">The Chemical History of a Candle</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(133).pdf" style="text-decoration:none;">Halogens and Noble Gases</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(134).pdf" style="text-decoration:none;">Periodic Tales: A Cultural History of the Elements, from Arsenic to Zinc </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(132).pdf" style="text-decoration:none;">Behave: The Biology of Humans at Our Best and Worst</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(133).pdf" style="text-decoration:none;">The Man in the Monkeynut Coat: William Astbury and the Forgotten Road to the Double-Helix</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(134).pdf" style="text-decoration:none;">The Red Queen: Sex and the Evolution of Human Nature </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(135).pdf" style="text-decoration:none;">The Periodic Table: A Field Guide to the Elements</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(135).pdf" style="text-decoration:none;">The Selfish Gene</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(136).pdf" style="text-decoration:none;">Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(137).pdf" style="text-decoration:none;">The Chemical Bond: Chemical Bonding Across the Periodic Table</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(138).pdf" style="text-decoration:none;">The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(139).pdf" style="text-decoration:none;">The Last Sorcerers: The Path from Alchemy to the Periodic Table</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(140).pdf" style="text-decoration:none;">The Periodic Table: Its Story and Its Significance </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(141).pdf" style="text-decoration:none;">Uncle Tungsten: Memories of a Chemical Boyhood </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(136).pdf" style="text-decoration:none;">The Sixth Extinction: An Unnatural History </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(137).pdf" style="text-decoration:none;">The Vital Question. Why is life the way it is?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(138).pdf" style="text-decoration:none;">The Voyage of the Beagle</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(139).pdf" style="text-decoration:none;">The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(140).pdf" style="text-decoration:none;">The Immortal Life Of Henrietta Lacks </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(141).pdf" style="text-decoration:none;">WHAT IS LIFE? </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(142).pdf" style="text-decoration:none;">The 13th Element: The Sordid Tale of Murder, Fire, and Phosphorus </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(143).pdf" style="text-decoration:none;">The Elements of Murder: A History of Poison</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(142).pdf" style="text-decoration:none;">Why We Sleep: Unlocking the Power of Sleep and Dreams </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(143).pdf" style="text-decoration:none;">Diversity of Life: The Illustrated Guide to the Five Kingdoms</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(144).pdf" style="text-decoration:none;">Secrets of Methamphetamine Manufacture</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/bih(145).pdf" style="text-decoration:none;">Carbohydrate Chemistry, Volume 26 </a></li>
 
