@@ -1738,8 +1738,10 @@ Biology Study Guide</a></li>
 <h2 id="Greatest Biologists">The Greatest Biologists of All Time </h2>
 
 
+
+
 <p>[1] <a href="https://en.wikipedia.org/wiki/Alexander_von_Humboldt">Alexander von Humboldt</a></p>
-<img src="1.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/1.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 14 September 1769, Berlin, Kingdom of Prussia in the Holy Roman Empire</p>
 <p>Death: 6 May 1859 (aged 89), Berlin, Kingdom of Prussia in the German Confederation</p>
 <p>Known for: Humboldtian science</p>
@@ -1769,7 +1771,7 @@ they deny it is important; finally they credit the wrong person."<br /> <br /> ‚
 </br>
 
 <p>[2] <a href="https://en.wikipedia.org/wiki/Andreas_Vesalius">Andreas Vesalius</a></p>
-<img src="2.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/2.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 31 December 1514, Brussels, Habsburg Netherlands</p>
 <p>Death: 15 October 1564 (aged 49), Zakynthos, Venetian Ionian Islands</p>
 <p>Known for: De humani corporis fabrica (On the Fabric of the Human Body)</p>
@@ -1785,7 +1787,7 @@ they deny it is important; finally they credit the wrong person."<br /> <br /> ‚
 </ul>
 </br>
 <p>[3] <a href="https://en.wikipedia.org/wiki/Antoine_Lavoisier">Antoine Lavoisier</a></p>
-<img src="3.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/3.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 26 August 1743, Paris, France</p>
 <p>Death: 8 May 1794 (aged 50), Paris, France</p>
 <p>Known for: Combustion</p>
@@ -1809,7 +1811,7 @@ In a New Systematic Order, Containing all the Modern Discoveries</a></li>
 
 </br>
 <p>[4] <a href="https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek">Antonie van Leeuwenhoek</a></p>
-<img src="4.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/4.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 24 October 1632, Delft, Dutch Republic</p>
 <p>Death: 26 August 1723 (aged 90), Delft, Dutch Republic</p>
 <p>Known for: the Microscopic discovery of microorganisms (animalcule)</p>
@@ -1832,7 +1834,7 @@ In a New Systematic Order, Containing all the Modern Discoveries</a></li>
 
 </br>
 <p>[5] <a href="https://en.wikipedia.org/wiki/Aristotle">Aristotle</a></p>
-<img src="5.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/5.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 384 BC, Stagira, Chalcidian League</p>
 <p>Death: 322 BC (aged approx. 62), Euboea, Macedonian Empire</p>
 <p>Known for: Classified organisms into a "Ladder of Life"</p>
@@ -1883,7 +1885,7 @@ In a New Systematic Order, Containing all the Modern Discoveries</a></li>
 
 </br>
 <p>[6] <a href="https://en.wikipedia.org/wiki/Claude_Bernard">Claude Bernard</a></p>
-<img src="6.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/6.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 12 July 1813, Saint-Julien</p>
 <p>Death: 10 February 1878 (aged 64), Paris</p>
 <p>Known for: Blind experimental method for objective results</p>
@@ -1908,7 +1910,7 @@ In a New Systematic Order, Containing all the Modern Discoveries</a></li>
 
 </br>
 <p>[7] <a href="https://en.wikipedia.org/wiki/Charles_Darwin">Charles Darwin</a></p>
-<img src="7.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/7.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 12 February 1809, The Mount, Shrewsbury, Shropshire, England</p>
 <p>Death: 19 April 1882 (aged 73), Down House, Downe, Kent, England</p>
 <p>Known for: Theory of Evolution</p>
@@ -1957,7 +1959,7 @@ Animals and Plants under Domestication</a></li>
 </ul>
 </br>
 <p>[8] <a href="https://en.wikipedia.org/wiki/Edward_Jenner">Edward Jenner</a></p>
-<img src="8.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/8.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 17 May 1749, Berkeley, Gloucestershire, England</p>
 <p>Death: 26 January 1823 (aged 73), Berkeley, Gloucestershire, England</p>
 <p>Known for: Creating the first effective vaccine for smallpox</p>
@@ -1981,7 +1983,7 @@ will spread over the world - when that day comes, there will be no more smallpox
 
 </br>
 <p>[9] <a href="https://en.wikipedia.org/wiki/Galen"> Claudius Galenus </a></p>
-<img src="9.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/9.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: September 129 AD, Pergamon, Asia, Roman Empire</p>
 <p>Death: c. 210 AD, Rome, Roman Empire</p>
 <p>Known for: First to introduce medicinal experimentation</p>
@@ -2008,7 +2010,7 @@ will spread over the world - when that day comes, there will be no more smallpox
 
 </br>
 <p>[10] <a href="https://en.wikipedia.org/wiki/Gregor_Mendel"> Gregor Mendel </a></p>
-<img src="10.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/10.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 20 July 1822, Heinzendorf bei Odrau, Silesia, Austrian Empire </p>
 <p>Death: 6 January 1884 (aged 61), Br√ºnn, Moravia, Austria-Hungary</p>
 <p>Known for: Modern Genetics</p>
@@ -2025,7 +2027,7 @@ will spread over the world - when that day comes, there will be no more smallpox
 
 </br>
 <p>[11] <a href="https://en.wikipedia.org/wiki/Hippocrates"> Hippocrates </a></p>
-<img src="11.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/11.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: c. 460 BC, Kos, Ancient Greece </p>
 <p>Death: c. 370 BC (aged c. 90), Larissa, Ancient Greece</p>
 <p>Known for: The Father of Western Medicine</p>
@@ -2061,7 +2063,7 @@ will spread over the world - when that day comes, there will be no more smallpox
 
 </br>
 <p>[12] <a href="https://en.wikipedia.org/wiki/Joseph_Lister"> Joseph Lister </a></p>
-<img src="12.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/12.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 5 April 1827, Upton House, West Ham, England </p>
 <p>Death: 10 February 1912 (aged 84), Walmer, Kent, England</p>
 <p>Known for: Using antiseptics for cleaning and sterilizing wounds</p>
@@ -2084,7 +2086,7 @@ will spread over the world - when that day comes, there will be no more smallpox
 
 </br>
 <p>[13] <a href="https://en.wikipedia.org/wiki/Louis_Pasteur"> Louis Pasteur </a></p>
-<img src="13.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/13.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: December 27, 1822, Dole, Jura, France </p>
 <p>Death: September 28, 1895 (aged 72), Marnes-la-Coquette, France</p>
 <p>Known for: Created the process of pasteurization for treating milk and wine</p>
@@ -2102,7 +2104,7 @@ will spread over the world - when that day comes, there will be no more smallpox
 </br>
 
 <p>[14] <a href="https://en.wikipedia.org/wiki/Joseph_Priestley"> Joseph Priestley </a></p>
-<img src="14.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/14.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 24 March [O.S. 13 March] 1733, Birstall, West Riding of Yorkshire, UK </p>
 <p>Death: 6 February 1804 (aged 70), Northumberland, Pennsylvania, US</p>
 <p>Known for: Discovery of Oxygen</p>
@@ -2121,7 +2123,7 @@ will spread over the world - when that day comes, there will be no more smallpox
 </br>
 
 <p>[15] <a href="https://en.wikipedia.org/wiki/Rachel_Carson">Rachel Carson </a></p>
-<img src="15.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/15.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: May 27, 1907, Springdale, Pennsylvania, U.S. </p>
 <p>Death: April 14, 1964 (aged 56), Silver Spring, Maryland, U.S.</p>
 <p>Known for: Movement against using pesticides</p>
@@ -2140,7 +2142,7 @@ will spread over the world - when that day comes, there will be no more smallpox
 </br>
 
 <p>[16] <a href="https://en.wikipedia.org/wiki/Robert_Brown_(botanist,_born_1773)">Robert Brown</a></p>
-<img src="16.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/16.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 21 December 1773, Montrose, Scotland, UK </p>
 <p>Death: 10 June 1858 (aged 84), 17 Dean St, Soho Square, London, England</p>
 <p>Known for: Discovered the cell nucleus</p>
@@ -2165,7 +2167,7 @@ will spread over the world - when that day comes, there will be no more smallpox
 </br>
 
 <p>[17] <a href="https://en.wikipedia.org/wiki/Robert_Hooke">Robert Hooke</a></p>
-<img src="17.jpg" alt="Smiley face" height="120" width="120">
+<img src ="https://github.com/manjunath5496/The-Greatest-Biologists-of-All-Time/blob/master/17.jpg" alt="Smiley face" height="120" width="120">
 <p>Birth: 28 July [O.S. 18 July] 1635, Freshwater, Isle of Wight, England </p>
 <p>Death: 3 March 1703 (aged 67), London, England</p>
 <p>Known for: Coined the term "cell"</p>
@@ -2188,9 +2190,6 @@ This is like believing that anyone who owns a scalpel is a surgeon."<br /> <br /
 </ul>
 
 </br>
-
-
-
 
 
 
