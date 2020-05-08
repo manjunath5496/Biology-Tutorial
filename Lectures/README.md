@@ -227,3 +227,33 @@
 
 </br>
 
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl908id0_0" scope="col">PRACTICE EXAMS</th>
+<th id="tbl908id0_1" scope="col">EXAMS</th>
+<th id="tbl908id0_2" scope="col">EXAM SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl908id0_0">Quiz 1 (<a href="quiz1_prep_ho.pdf">PDF</a>)</td>
+<td headers="tbl908id0_1">Quiz 1 (<a href="quiz1_2_24.pdf">PDF</a>)</td>
+<td headers="tbl908id0_2">(<a href="quiz1_s.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl908id0_0">Quiz 2 (<a href="quiz2ho.pdf">PDF</a>)</td>
+<td headers="tbl908id0_1">Quiz&nbsp;2 (<a href="quiz2_final.pdf">PDF</a>)</td>
+<td headers="tbl908id0_2">(<a href="quiz2_s.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl908id0_0">Quiz 3 (<a href="quiz3_handout.pdf">PDF</a>)</td>
+<td headers="tbl908id0_1">Quiz&nbsp;3 (<a href="quiz3_4_21.pdf">PDF</a>)</td>
+<td headers="tbl908id0_2">(<a href="quiz3_s.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Practice final exam (<a href="final_handout.pdf">PDF</a>)</p>
+</br>
