@@ -3,7 +3,7 @@
  <li class="title"><a href="#course2">Introductory Biology</a></li> 
   <li class="title"><a href="#course3">Experimental Biology - Communications Intensive </a></li> 
   <li class="title"><a href="#course4">Experimental Biology and Communication </a></li>
-   <li class="title"><a href="#course5">Multivariable Calculus with Theory </a></li>
+   <li class="title"><a href="#course5">Genetics </a></li>
   <li class="title"><a href="#course6">Differential Equations</a></li>
    <li class="title"><a href="#course7">Honors Differential Equations </a></li>
     <li class="title"><a href="#course8">Complex Variables with Applications </a></li>
@@ -534,10 +534,154 @@
 
 </br>
 
+<h2 id ="course5">Genetics</h2>
 
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td headers="col2">Physical Structure of the Gene</td>
+<td headers="col3">CK (<a href="lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Complementation Test and Gene Function</td>
+<td headers="col3">CK (<a href="lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Mendelian Genetics</td>
+<td headers="col3">CK (<a href="lecture3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Probability and Pedigrees</td>
+<td headers="col3">CK (<a href="lecture4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Chromosomes and Sex Linkage</td>
+<td headers="col3">CK (<a href="lecture5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Recombination and Genetic Maps</td>
+<td headers="col3">CK (<a href="lecture6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Three-factor Crosses</td>
+<td headers="col3">CK (<a href="lecture7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Tetrad Analysis</td>
+<td headers="col3">GF (<a href="lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Phage Genetics</td>
+<td headers="col3">CK (<a href="lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Gene Structure and DNA Analysis</td>
+<td headers="col3">CK (<a href="lecture10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Mutations and Suppressors</td>
+<td headers="col3">CK (<a href="lecture11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Bacterial Genetics: Transposition</td>
+<td headers="col3">CK (<a href="lecture12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Bacterial Genetics: Transduction</td>
+<td headers="col3">CK (<a href="lecture13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Complementation in Bacteria: Plasmids</td>
+<td headers="col3">CK (<a href="lecture14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Complementation in Bacteria: Recombinant DNA</td>
+<td headers="col3">CK (<a href="lecture15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Prokaryotic Regulation: Negative Control</td>
+<td headers="col3">CK (<a href="lecture16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Prokaryotic Regulation: Positive Control</td>
+<td headers="col3">CK (<a href="lecture17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Prokaryotic Regulation: Regulatory Circuits</td>
+<td headers="col3">CK (<a href="lecture18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Eukaryotic Genes and Genomes I</td>
+<td headers="col3">LS (<a href="lecture19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Eukaryotic Genes and Genomes II</td>
+<td headers="col3">LS (<a href="lecture20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Eukaryotic Genes and Genomes III</td>
+<td headers="col3">LS (<a href="lecture21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Eukaryotic Genes and Genomes IV</td>
+<td headers="col3">LS (<a href="lecture22.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Transgenes and Gene Targeting in Mice I</td>
+<td headers="col3">LS (<a href="lecture23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Transgenes and Gene Targeting in Mice II</td>
+<td headers="col3">LS (<a href="lecture24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Population Genetics: Hardy-Weinberg</td>
+<td headers="col3">CK (<a href="lecture25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Population Genetics: Mutation and Selection</td>
+<td headers="col3">CK (<a href="lecture26.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Population Genetics: Inbreeding</td>
+<td headers="col3">CK (<a href="lecture27.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Human Polymorphisms</td>
+<td headers="col3">GF (<a href="lecture28.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Statistical Evaluation of Linkage I</td>
+<td headers="col3">GF (<a href="lecture29_30.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Statistical Evaluation of Linkage II</td>
+<td headers="col3">GF (<a href="lecture29_30.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Complex Traits</td>
+<td headers="col3">GF (<a href="lecture31.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Chromosome Anomalies I</td>
+<td headers="col3">GF&nbsp;(<a href="lecture32.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Chromosome Anomalies II</td>
+<td headers="col3">LS (<a href="lecture33_1.pdf">PDF 1 of 3 - 3.1 MB</a>)<br />(<a href="lecture33_2.pdf">PDF 2 of 3 - 1.9 MB</a>)<br />(<a href="lecture33_3.pdf">PDF 3 of 3 - 3.8 MB</a>&nbsp;)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Genetics of Cancer I</td>
+<td headers="col3">LS (<a href="lecture34.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Genetics of Cancer II</td>
+<td headers="col3">LS (<a href="lecture35.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 
-
-
+</br>
 
 
