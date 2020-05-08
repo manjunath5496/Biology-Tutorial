@@ -683,5 +683,47 @@
 </table>
 
 </br>
+<p> <strong>Assignments: problem sets with solutions</strong> </p>
+
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">ASSIGNMENTS</th>
+<th id="col3" scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Problem Set 1 (<a href="pset1.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="pset1_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Problem Set&nbsp;2 (<a href="pset2.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="pset2_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Problem Set&nbsp;3 (<a href="pset3.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="pset3_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Problem Set&nbsp;4 (<a href="pset4.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="pset4_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Problem Set&nbsp;5 (<a href="pset5.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="pset5_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Problem Set&nbsp;6 (<a href="pset6.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="pset6_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Problem Set&nbsp;7 (<a href="pset7.pdf">PDF</a>)</td>
+<td headers="col3">(<a href="pset7_ans.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
