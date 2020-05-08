@@ -4,7 +4,7 @@
   <li class="title"><a href="#course3">Experimental Biology - Communications Intensive </a></li> 
   <li class="title"><a href="#course4">Experimental Biology and Communication </a></li>
    <li class="title"><a href="#course5">Genetics </a></li>
-  <li class="title"><a href="#course6">Differential Equations</a></li>
+  <li class="title"><a href="#course6">Biological Chemistry II</a></li>
    <li class="title"><a href="#course7">Honors Differential Equations </a></li>
     <li class="title"><a href="#course8">Complex Variables with Applications </a></li>
  <li class="title"><a href="#course9">Introduction to Probability and Statistics</a></li>
@@ -743,3 +743,79 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course6">Biological Chemistry II</h2>
+
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT5_08jS16ps1.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="MIT5_08jS16ps1_soln.pdf">Problem Set 1 Solution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT5_08jS16ps2.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="MIT5_08jS16ps2_soln.pdf">Problem Set 2 Solution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT5_08jS16ps3.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="MIT5_08jS16ps3_soln.pdf">Problem Set 3 Solution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT5_08jS16ps4.pdf">Problem Set 4 (PDF)</a></td>
+<td><a href="MIT5_08jS16ps4_soln.pdf">Problem Set 4 Solution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT5_08jS16ps5-6.pdf">Problem Set 5-6 (PDF)</a></td>
+<td><a href="MIT5_08jS16ps5-6_soln.pdf">Problem Set 5-6 Solution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT5_08jS16ps7.pdf">Problem Set 7 (PDF)</a></td>
+<td><a href="MIT5_08jS16ps7_soln.pdf">Problem Set 7 Solution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT5_08jS16ps8.pdf">Problem Set 8&nbsp;<span class="nobr">(PDF - 1.4MB)</span></a></td>
+<td><a href="MIT5_08jS16ps8_soln.pdf">Problem Set 8 Solution&nbsp;<span class="nobr">(PDF - 1.5MB)</span></a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT5_08jS16ps9.pdf">Problem Set 9 (PDF)</a></td>
+<td><a href="MIT5_08jS16ps9_soln.pdf">Problem Set 9 Solution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT5_08jS16ps10.pdf">Problem Set 10 (PDF)</a></td>
+<td><a href="MIT5_08jS16ps10_soln.pdf">Problem Set 10 Solution (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+<p> <strong>Exams and solutions</strong> </p>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td><a href="MIT5_08jS16exam1.pdf">Exam 1 (PDF)</a></td>
+<td><a href="MIT5_08jS16exam1_soln.pdf">Exam 1 Solution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT5_08jS16exam2.pdf">Exam 2 (PDF)</a></td>
+<td><a href="MIT5_08jS16exam2_soln.pdf">Exam 2 Solution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT5_08jS16exam3.pdf">Exam 3 (PDF)</a></td>
+<td><a href="MIT5_08jS16exam3_soln.pdf">Exam 3 Solution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT5_08jS16FinalExam.pdf">Final Exam (PDF - 1.1MB)</a></td>
+<td><a href="MIT5_08jS16FinalExam_soln.pdf">Final Exam Solution (PDF - 1.4MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
