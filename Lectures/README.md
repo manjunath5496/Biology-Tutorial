@@ -1,6 +1,6 @@
 <ul>
 <li class="title"><a href="#course1">Introduction to Biology</a></li>
- <li class="title"><a href="#course2">Calculus with Theory</a></li> 
+ <li class="title"><a href="#course2">Introductory Biology</a></li> 
   <li class="title"><a href="#course3">Multivariable Calculus </a></li> 
   <li class="title"><a href="#course4">Calculus of Several Variables </a></li>
    <li class="title"><a href="#course5">Multivariable Calculus with Theory </a></li>
@@ -184,3 +184,46 @@
 <p>&nbsp;</p>
 <p>Practice final exam (<a href="finalprac.pdf">PDF</a>)</p>
 </br>
+<h2 id ="course2">Introductory Biology</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<a href="pset1q.pdf">PDF</a>)</td>
+<td>(<a href="pset1s.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<a href="ps2q_05.pdf">PDF</a>)&nbsp;</td>
+<td>(<a href="ps2s_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<a href="ps3q_05.pdf">PDF</a>)</td>
+<td>(<a href="ps3s_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 4 (<a href="ps4q_05.pdf">PDF</a>)</td>
+<td>(<a href="ps4s_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 5 (<a href="ps5q_05.pdf">PDF</a>)</td>
+<td>(<a href="ps5s_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 6 (<a href="ps6q_05.pdf">PDF</a>)</td>
+<td>(<a href="ps6s_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 7 (<a href="ps7q_05.pdf">PDF</a>)</td>
+<td>(<a href="ps7s_05.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
