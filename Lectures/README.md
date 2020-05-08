@@ -2,7 +2,7 @@
 <li class="title"><a href="#course1">Introduction to Biology</a></li>
  <li class="title"><a href="#course2">Introductory Biology</a></li> 
   <li class="title"><a href="#course3">Experimental Biology - Communications Intensive </a></li> 
-  <li class="title"><a href="#course4">Calculus of Several Variables </a></li>
+  <li class="title"><a href="#course4">Experimental Biology and Communication </a></li>
    <li class="title"><a href="#course5">Multivariable Calculus with Theory </a></li>
   <li class="title"><a href="#course6">Differential Equations</a></li>
    <li class="title"><a href="#course7">Honors Differential Equations </a></li>
@@ -315,4 +315,229 @@
 </table>
 
 </br>
+<h2 id ="course4">Experimental Biology and Communication</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td colspan="2" headers="tbl359id0_0"><strong>Introduction and Training Lab</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Training Lab</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Training Lab (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="tbl359id0_0"><strong>Module 1: Genetics</strong><br /><br />Genetics Module Overview (<a href="gen_mod_overview.pdf">PDF</a>)<br /><br />Mutagenesis Strategy and Central Dogma (<a href="mut_strtg_cendog.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Genetics Lab 1</td>
+<td headers="tbl359id0_2">(<a href="gen1_recnts_esfn.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Genetics Lab 1 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Genetics Lab 2</td>
+<td headers="tbl359id0_2">(<a href="gen2_rn_estr_fn.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Genetics Lab 2 (cont.)</td>
+<td headers="tbl359id0_2">(<a href="gen2_rn_eswf_fn.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Genetics Lab 3</td>
+<td headers="tbl359id0_2">(<a href="gen3_recnotes_es.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Genetics Lab 3 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Genetics Lab 4</td>
+<td headers="tbl359id0_2">(<a href="gen4_recnts_esfn.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Genetics Lab 4 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Genetics Lab 5</td>
+<td headers="tbl359id0_2">(<a href="gen5_recnts_esfn.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Genetics Lab 5 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Genetics Lab 6</td>
+<td headers="tbl359id0_2">(<a href="gen6_recnts_esfn.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="tbl359id0_0"><strong>Module 2: Protein Biochemistry</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Genetics Lab 6 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Genetics Lab 7<br /><br />Protein Biochemistry Lab 1</td>
+<td headers="tbl359id0_2">Hames, B. D., and D. Rickwood, eds.&nbsp;<em>Gel Electrophoresis of Proteins: A Practical Approach</em>. 3rd ed. New York: Oxford University Press, 1998. ISBN: 9780199636402. (Practical Approach Series)<br /><br />Protein Biochemistry Lab 1 Notes (<a href="pbc1_nts_aa_sp5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Genetics Lab 7 (cont.)<br /><br />Protein Biochemistry Lab 1 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Protein Biochemistry Lab 2</td>
+<td>(<a href="pbc2_nts_aa_sp5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Protein Biochemistry Lab 2 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Protein Biochemistry Lab 3</td>
+<td headers="tbl359id0_2">(<a href="pbc3_nts_aa_sp5.pdf">PDF - 1.5 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Protein Biochemistry Lab 3 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Protein Biochemistry Lab 4</td>
+<td headers="tbl359id0_2">(<a href="pbc4_nts_aa_sp5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Protein Biochemistry Lab 4 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Protein Biochemistry Lab 5</td>
+<td headers="tbl359id0_2">(<a href="pbc5_nts_aa_sp5.pdf">PDF - 2.2 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Protein Biochemistry Lab 5 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Protein Biochemistry Lab 6</td>
+<td>(<a href="pbc6_nts_aa_sp5.pdf">PDF - 2.1 MB</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="tbl359id0_0"><strong>Module 3: Recombinant DNA Methods</strong><br /><br />Recombinant DNA Methods Overview (<a href="rdm_overview.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Protein Biochemistry Lab 6 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 1</td>
+<td headers="tbl359id0_2">(<a href="rdm1_lal.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 1 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 2</td>
+<td headers="tbl359id0_2">(<a href="rdm2_recnts_lal.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 2 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 3</td>
+<td headers="tbl359id0_2">(<a href="rdm3_recnts_lal.pdf">PDF - 1.2 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 3 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 4</td>
+<td headers="tbl359id0_2">(<a href="rdm4_recnts_lal.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 4 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 5</td>
+<td headers="tbl359id0_2">(<a href="rdm5_recnts_lal.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 5 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="tbl359id0_0"><strong>Module 4: Development</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 6</td>
+<td headers="tbl359id0_2">(<a href="rdm6_allrecnotes.pdf">PDF</a>&nbsp;)</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 6 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 7<br /><br />Development Lab 1</td>
+<td headers="tbl359id0_2">
+<p>Recombinant DNA Methods Lab 7 Notes (<a href="rdm6_allrecnotes.pdf">PDF</a>)</p>
+<p>Development Lab 1 Notes (<a href="dev1_recnotes_fx.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Recombinant DNA Methods Lab 7 (cont.)<br /><br />Development Lab 1 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Development Lab 2</td>
+<td headers="tbl359id0_2">(<a href="dev2_recnotes_fx.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Development Lab 2 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Development Lab 3</td>
+<td headers="tbl359id0_2">(<a href="dev3_recnotes_fx.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Development Lab 3 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Development Lab 4</td>
+<td headers="tbl359id0_2">(<a href="dev4_recnotes_fx.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Development Lab 4 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl359id0_1">Development Lab 5</td>
+<td headers="tbl359id0_2">(<a href="dev5_recnotes_fx.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl359id0_1">Development Lab 5 (cont.)</td>
+<td headers="tbl359id0_2">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
+
+
+
 
