@@ -725,5 +725,21 @@
 </tbody>
 </table>
 </br>
-
-
+<p> <strong>Exams and solutions</strong> </p>
+<table class="tablewidth50" summary="Exams">
+<tbody>
+<tr class="row">
+<td headers="col1">Lectures 1-10</td>
+<td headers="col2">Exam I (<a href="exam1_2004.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col1">Lectures 11-18</td>
+<td headers="col2">Exam II (<a href="exam2_2004.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1">Lectures 19-30</td>
+<td headers="col2">Exam III (<a href="exam3_2004.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
