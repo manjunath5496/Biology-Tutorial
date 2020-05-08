@@ -6,7 +6,7 @@
    <li class="title"><a href="#course5">Genetics </a></li>
   <li class="title"><a href="#course6">Biological Chemistry II</a></li>
    <li class="title"><a href="#course7">Topics in Experimental Biology </a></li>
-    <li class="title"><a href="#course8">Complex Variables with Applications </a></li>
+    <li class="title"><a href="#course8">Molecular Biology </a></li>
  <li class="title"><a href="#course9">Introduction to Probability and Statistics</a></li>
   <li class="title"><a href="#course10">Linear Algebra </a></li>
   <li class="title"><a href="#course11">Mathematics for Computer Science</a></li>
@@ -855,10 +855,72 @@
 
 </br>
 
+<h2 id ="course8">Molecular Biology</h2>
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem Set 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/pset1.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/pset1_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem Set 2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/pset2.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/pset2_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem Set 3 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/pset3.pdf">PDF</a>)</td>
+<td>(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/pset3_ans.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">WRITING&nbsp;ASSIGNMENTS</th>
+<th scope="col">DISCUSSION QUESTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="gray-row">
+<td>
+<p>Writing Assignment 1 (<a href="1/writing1.pdf">PDF</a>)</p>
+</td>
+<td>Chong, J. P., M. K. Hayashi, M. N. Simon, R. M. Xu, and B. Stillman. "A double-hexamer archaeal minichromosome maintenance protein is an ATP-dependent DNA helicase."&nbsp;<em>Proc Natl Acad Sci U.S.A.</em>&nbsp;97, no. 4 (Feb 15, 2000): 1530-5.
+<p>The paper by Chong and colleagues describes the purification and characterization of an archaebacterial protein (MtMcm) that is related to the eukaryotic Mcm proteins. The experiments in figure 1 indicate that MtMcm has a binding site for both ssDNA and dsDNA. It is possible that these DNAs bind the same site in the protein or that they bind separate sites. Propose an experiment to distinguish between these two possibilities and describe the results you would expect if dsDNA and ssDNA share the same binding site. If ssDNA and dsDNA share the same binding site, what part of the DNA is most likely involved in the interaction that stimulates the ATPase?</p>
+<p>To address the ability of MtMcm protein to displace large DNA fragments, the authors created a DNA helicase substrate with variable length ssDNAs (25 to 500 bases) annealed to a large ssDNA circle and find that MtMcm can displace ssDNAs as long as 500 bases. Is this an assay for MtMcm processivity? Explain why or why not.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Writing Assignment 2 (<a href="1/writing2.pdf">PDF</a>)</p>
+</td>
+<td>Yang, H., Q. Li, J. Fan, W. K. Holloman, and N. P. Pavletich. "The BRCA2 homologue Brh2 nucleates RAD51 filament formation at a dsDNA-ssDNA junction."&nbsp;<em>Nature</em>&nbsp;433, no. 7026 (Feb 10, 2005): 653-7.
+<p>&nbsp;</p>
+<p>The paper by Yang and colleagues describes characterization of the BRCA2 homolog, Brh2. They provide evidence that Brh2 promotes assembly of Rad51 filament and that this role could explain how BRCA2 proteins function in DSB repair.</p>
+<p>The recombination assays described in the paper require the single-stranded DNA binding protein RPA. Explain the multiple effects that RPA is thought to have on Rad51 filament assembly. In one experiment, the authors use&nbsp;<em>E. coli</em>&nbsp;SSB in place of RPA. What is the role of this experiment in the logic of the paper?</p>
+<p>The authors also conclude that Brh2 preferentially promotes Rad51 filament formation at ssDNA-dsDNA junctions. Furthermore, they infer that these filaments grow specifically to coat the 3'ssDNA overhang. How would their results differ if this specific polarity of filament growth had not been observed? They suggest from their structural work that this polarity could be due to nucleation by BRC-bound Rad51. Do you find this model attractive, unattractive, or unnecessary? Explain your position on this issue.</p>
+</td>
+</tr>
+<tr class="row">
+<td>Writing Assignment 3 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/writing3.pdf">PDF</a>)</td>
+<td>
+<p>Ibrahim, el C., T. D. Schaal, K. J. Hertel, R. Reed, and T. Maniatis. "Serine/arginine-rich protein-dependent suppression of exon skipping by exonic splicing enhancers."&nbsp;<em>Proc Natl Acad Sci U.S.A.</em>&nbsp;102, no. 14 (Apr 5, 2005):5002-7. (Epub Mar 7, 2005)</p>
+<p>The paper by Ibrahim et al. addresses the mechanisms employed to ensure proper pairing of 5' and 3' splice sites. The authors make two distinct conclusions: (1) that SR proteins, by binding to unspliced exons, direct the splicing machinery to the nearest 5' and 3' splice sites; (2) the SR proteins function to suppress splicing between upstream 5' splice sites and downstream 3' splice sites. Summarize the evidence that specifically supports the second of these conclusions.</p>
+<p>In pre-mRNAs that carry several alternative exons (for example a gene with 4 exons, but 3 alternative versions of exon 2 that are used in different tissues) splice site choice has extra complexities. Based on the conclusions of this paper, propose a model for how alternative splicing in the different tissues could be achieved. You may include a figure if you wish, in addition to the 2 pages of written text.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-
+</br>
 
 
 
