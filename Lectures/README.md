@@ -1,7 +1,7 @@
 <ul>
 <li class="title"><a href="#course1">Introduction to Biology</a></li>
  <li class="title"><a href="#course2">Introductory Biology</a></li> 
-  <li class="title"><a href="#course3">Multivariable Calculus </a></li> 
+  <li class="title"><a href="#course3">Experimental Biology - Communications Intensive </a></li> 
   <li class="title"><a href="#course4">Calculus of Several Variables </a></li>
    <li class="title"><a href="#course5">Multivariable Calculus with Theory </a></li>
   <li class="title"><a href="#course6">Differential Equations</a></li>
@@ -257,3 +257,62 @@
 </br>
 <p>Practice final exam (<a href="final_handout.pdf">PDF</a>)</p>
 </br>
+<h2 id ="course3">Experimental Biology - Communications Intensive</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td>
+<p>Introductions</p>
+<p>Neal Lerner (<a href="intro_nl_sp05.pdf">PDF</a>)</p>
+<p>Marilee Ogren (<a href="intro_mpo_sp05.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Materials and Methods</p>
+<p>Neal Lerner (<a href="methods_nl_sp05.pdf">PDF</a>)</p>
+<p>Marilee Ogren (<a href="methods_mpo_sp05.pdf">PDF</a>)</p>
+<p>Druker, Brian J., et al. "Efficacy and Safety of a Specific Inhibitor of The BCR-ABL Tyrosine Kinase in Chronic Myeloid Leukemia."&nbsp;<em>The New England Journal of Medicine</em>&nbsp;344, no. 14 (April 5, 2001): 1031-1037.</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Neal Lerner: Illustrations (Figures) (<a href="illus_nl_sp05.pdf">PDF</a>)</p>
+<p>Marilee Ogren: Tables and Figures (<a href="tblfigs_mpo_sp05.pdf">PDF</a>)</p>
+<p>Gopen, George D., and Judith A. Swan. "The Science of Scientific Writing."&nbsp;<em>American Scientist</em>&nbsp;78 (November-December 1990): 550-558.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Results</p>
+<p>Neal Lerner (<a href="result_nl_sp05.pdf">PDF</a>)</p>
+<p>Marilee Ogren (<a href="result_mpo_sp05.pdf">PDF</a>)</p>
+<p>Arbuckle, Melissa R., et al. "Development of Autoantibodies before the Clinical Onset of Systemic Lupus Erythematosus."&nbsp;<em>The New England Journal of Medicine</em>&nbsp;349 (2003): 1526-33.</p>
+<p>Shmerling, Robert H. "Autoantibodies in Systemic Lupus Erythematosus - There before You Know It."&nbsp;<em>The New England Journal of Medicine</em>&nbsp;349, no. 16 (October 16, 2003): 1499-1500.</p>
+</td>
+</tr>
+<tr class="row">
+<td>
+<p>Neal Lerner: Discussions (<a href="discussion_nl.pdf">PDF</a>)</p>
+<p>Marilee Ogren: Discussions/Conclusions (<a href="mposp05_discuss.pdf">PDF</a>)</p>
+<p>Lapostolle, Fr&eacute;d&eacute;ric, et al. "Severe Pulmonary Embolism Associated With Air Travel."&nbsp;<em>The New England Journal of Medicine</em>&nbsp;345, no. 11 (September 13, 2001): 779-783.</p>
+<p>Editorial. "Air Travel and various Thromboembolism- Is The Evidence In?"&nbsp;<em>The New England Journal of Medicine</em>&nbsp;345, no. 11 (September 13, 2001): 828-829.</p>
+</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="alt-row">
+<td>
+<p>Title and Abstract</p>
+<p>Neal Lerner (<a href="nl_titleabstract.pdf">PDF</a>)</p>
+<p>Marilee Ogren (<a href="mposp05_ttlabst.pdf">PDF</a>)</p>
+<p>Watson, J. D., and F. H. C. Crick. "Molecular Structure of Nucleic Acids."&nbsp;<em>Nature</em>&nbsp;191, no. 4356 (April 25, 1953): 737-738.<br /><br />Halloran, S. Michael. "The Birth of Molecular Biology: An Essay in the rhetorical Criticism of Scientific Discourse."&nbsp;<em>Rhetoric Review</em>&nbsp;3, no. 1 (September 1984): 70-83.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
