@@ -922,8 +922,12 @@
 
 </br>
 
+<p> <strong>Exams and solutions</strong> </p>
 
-
-
-
+<ul>
+<li>Exam 1 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/exm1_ans.pdf">PDF</a>)</li>
+<li>Exam 2 (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="1/exm2_ans.pdf">PDF</a>)</li>
+<li>Exam 3 (<a href="1/exm3_ans.pdf">PDF</a>)</li>
+</ul>
+</br>
 
