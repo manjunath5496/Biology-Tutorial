@@ -5,7 +5,7 @@
   <li class="title"><a href="#course4">Experimental Biology and Communication </a></li>
    <li class="title"><a href="#course5">Genetics </a></li>
   <li class="title"><a href="#course6">Biological Chemistry II</a></li>
-   <li class="title"><a href="#course7">Honors Differential Equations </a></li>
+   <li class="title"><a href="#course7">Topics in Experimental Biology </a></li>
     <li class="title"><a href="#course8">Complex Variables with Applications </a></li>
  <li class="title"><a href="#course9">Introduction to Probability and Statistics</a></li>
   <li class="title"><a href="#course10">Linear Algebra </a></li>
@@ -818,4 +818,50 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course7">Topics in Experimental Biology</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="alt-row">
+<td headers="tbl315id0_1">Logic of a Research Paper, Organization of a Research Proposal, How to Present Data in a Lab Talk (<a href="lecture_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl315id0_1">Data and Figures, Results and Preliminary Results (<a href="lecture_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl315id0_1">Project&nbsp;Outline and Journal Club&nbsp;(<a href="fall05lecture6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl315id0_1">Introduction, Background and Significance (<a href="fall05lectu7_lar.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl315id0_1">Experimental Plan (<a href="lecture_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl315id0_1">Discussion of Paragraphs, Ethical Conduct of Science, Citations and Plagiarism (<a href="lecture_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl315id0_1">Methods and Materials (<a href="fall05mm_lar.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl315id0_1">Scientific and Non-scientific Abstract (<a href="fall05abstra_lar.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl315id0_1">Discussion&nbsp;(cont.) and Polishing your Writing (<a href="fal05lec21_dipo.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
+
+
+
+
+
+
 
