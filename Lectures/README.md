@@ -159,3 +159,28 @@
 </tbody>
 </table>
 </br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">PRACTICE EXAMS</th>
+<th id="col3" scope="col">EXAM SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Quiz 1 (<a href="quiz1prac.pdf">PDF</a>)</td>
+<td headers="col3">Quiz 1 (<a href="quiz1s.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Quiz 2 (<a href="quiz2prac.pdf">PDF</a>)</td>
+<td headers="col3">Quiz 2 (<a href="quiz2s.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Quiz 3 (<a href="quiz3prac.pdf">PDF</a>)</td>
+<td headers="col3">Quiz 3 (<a href="quiz3a.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Practice final exam (<a href="finalprac.pdf">PDF</a>)</p>
+</br>
