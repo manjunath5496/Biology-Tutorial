@@ -24,7 +24,7 @@
      <li class="title"><a href="#course23">Graduate Biochemistry</a></li>
     <li class="title"><a href="#course24">Principles and Practice of Drug Development</a></li>
    <li class="title"><a href="#course25">Developmental Neurobiology</a></li>
-   <li class="title"><a href="#course26">Universal Random Structures in 2D</a></li>
+   <li class="title"><a href="#course26">Biological Chemistry II</a></li>
    
 </ul>
 </br>
@@ -2054,3 +2054,60 @@
 </table>
 
 </br>
+<h2 id ="course26">Biological Chemistry II</h2>
+
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PROBLEM&nbsp;SETS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="2/MIT5_08jS16ps1.pdf">Problem Set 1 (PDF)</a></td>
+<td><a href="2/MIT5_08jS16ps1_soln.pdf">Problem Set 1 Solution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT5_08jS16ps2.pdf">Problem Set 2 (PDF)</a></td>
+<td><a href="2/MIT5_08jS16ps2_soln.pdf">Problem Set 2 Solution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT5_08jS16ps3.pdf">Problem Set 3 (PDF)</a></td>
+<td><a href="2/MIT5_08jS16ps3_soln.pdf">Problem Set 3 Solution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT5_08jS16ps4.pdf">Problem Set 4 (PDF)</a></td>
+<td><a href="2/MIT5_08jS16ps4_soln.pdf">Problem Set 4 Solution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT5_08jS16ps5-6.pdf">Problem Set 5-6 (PDF)</a></td>
+<td><a href="2/MIT5_08jS16ps5-6_soln.pdf">Problem Set 5-6 Solution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT5_08jS16ps7.pdf">Problem Set 7 (PDF)</a></td>
+<td><a href="2/MIT5_08jS16ps7_soln.pdf">Problem Set 7 Solution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT5_08jS16ps8.pdf">Problem Set 8&nbsp;<span class="nobr">(PDF - 1.4MB)</span></a></td>
+<td><a href="2/MIT5_08jS16ps8_soln.pdf">Problem Set 8 Solution&nbsp;<span class="nobr">(PDF - 1.5MB)</span></a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT5_08jS16ps9.pdf">Problem Set 9 (PDF)</a></td>
+<td><a href="2/MIT5_08jS16ps9_soln.pdf">Problem Set 9 Solution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT5_08jS16ps10.pdf">Problem Set 10 (PDF)</a></td>
+<td><a href="2/MIT5_08jS16ps10_soln.pdf">Problem Set 10 Solution (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
+
