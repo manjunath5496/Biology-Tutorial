@@ -22,7 +22,7 @@
    <li class="title"><a href="#course21">Foundations of Computational and Systems Biology</a></li>
     <li class="title"><a href="#course22">Introduction to Bioengineering</a></li>
      <li class="title"><a href="#course23">Graduate Biochemistry</a></li>
-    <li class="title"><a href="#course24">Differential Analysis II: Partial Differential Equations and Fourier Analysis</a></li>
+    <li class="title"><a href="#course24">Principles and Practice of Drug Development</a></li>
    <li class="title"><a href="#course25">Theory of Probability</a></li>
    <li class="title"><a href="#course26">Universal Random Structures in 2D</a></li>
    <li class="title"><a href="#course27">Algebraic Combinatorics</a></li>
@@ -2031,3 +2031,40 @@
 </ul>
 
 </br>
+<h2 id ="course24">Principles and Practice of Drug Development</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Brief Economic History of the Pharmaceutical Industry</td>
+<td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="2/MIT15_136JF13_Lec2_Dr.pdf">Lecture 2 Evolving Economics (PDF - 1.5MB)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Pharmaceutical Industry and the Drug Development Process; Basic Science</td>
+<td><a href="2/MIT15_136JF13_Lec3_Hist.pdf">Lecture 3 History of Pharmaceuticals (PDF - 3.0MB)</a></td>
+</tr>
+<tr class="row">
+<td>Regulation</td>
+<td>
+<p><a href="2/MIT15_136JF13_Lec8_Comp.pdf">Lecture 8 Comparative Effectiveness (PDF)</a></p>
+<p><a href="2/MIT15_136JF13_Lec8_Drug.pdf">Lecture 8 Drug Regulation (PDF - 1.1MB)</a></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Manufacturing III</td>
+<td><a href="2/MIT15_136JF13_Lec12_Manu.pdf">Lecture 12 Manufacturing (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
+
