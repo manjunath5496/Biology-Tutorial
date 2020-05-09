@@ -10,7 +10,7 @@
  <li class="title"><a href="#course9">Ecology I: The Earth System</a></li>
   <li class="title"><a href="#course10">Under the Radar Screen: How Bugs Trick Our Immune Defenses</a></li>
   <li class="title"><a href="#course11">Nano-life: An Introduction to Virus Structure and Assembly</a></li>
-   <li class="title"><a href="#course12">Linear Algebra - Communications Intensive </a></li>
+   <li class="title"><a href="#course12">Ubiquitination: The Proteasome and Human Disease </a></li>
   <li class="title"><a href="#course13">Advanced Calculus for Engineers </a></li>
    <li class="title"><a href="#course14">Mathematical Methods for Engineers II</a></li>
   <li class="title"><a href="#course15">Mathematical Exposition</a></li>
@@ -1183,6 +1183,64 @@
 
 </br>
 
+<h2 id ="course12">Ubiquitination: The Proteasome and Human Disease</h2>
 
+<table class="tablewidth100" summary="Course Table Listing">
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction (<a href="1/intro_s1ands2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Discovery of the Ubiquitin Conjugation System (<a href="1/intro_s1ands2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Protein Degradation in Trafficking Membranes I: Endoplasmic Reticulum Associated Degradation (ERAD) Pathway (<a href="1/intro_s3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Protein Degradation in Trafficking Membranes II: Endocytosis and lysosomal Degradation (<a href="1/intro_s4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Role of Ubiquitination in Transcriptional Regulation (<a href="1/intro_s5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Role of Ubiquitination in Cell Cycle Control and Programmed Cell Death (<a href="1/intro_s6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Ubiquitin-like Proteins (<a href="1/intro_s7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Functions of the Ubiquitin-Proteasome System in the Immune System (<a href="1/intro_s8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Ubiquitin and Cancer (<a href="1/intro_s9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Ubiquitin and Neurodegenerative Diseases: Alzheimer's and Parkinson's Diseases (<a href="1/intro_s10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">More Diseases Involving Ubiquitin: Huntington's and Von Hippel-Lindau Disease (<a href="1/intro_s11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Too Much Degradation Can Be as Bad as Not Enough: Cystic Fibrosis and Liddle's Syndrome (<a href="1/intro_s12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Potential Therapeutic Strategies in Ubiquitin-Related Diseases (<a href="1/intro_s13.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
-
+<p><strong>Writing Assignment</strong></p>
+<p>You will be provided with the introduction and discussion section of a research paper (<a href="1/assignment1.pdf">PDF</a>). The discussion proposes a model to describe how a particular cell pathway may work, based on the results obtained. Your task will be to define a set of experiments that you think might have been done to allow the authors to propose such a model. Write a maximum of three pages (typed, double spaced, 12 point font).</p>
+<p>Sample student writing assignment (<a href="1/smp_std_assgn1.pdf">PDF</a>)</p>
+<p><strong>Oral Presentation Assignment</strong></p>
+<p>You will select one among several papers. You will prepare a 15-minute presentation in which you will briefly describe the background, results and main conclusions (working model) from this work.</p>
+<p>Sample student presentation, courtesy of Magda Stumpfova: Review of Gomez, M.D. et al, "Atrogin-1, a muscle-specific F-box protein highly expressed during muscle atrophy."&nbsp;<em>PNAS</em>&nbsp;98:25 (2001), 14440-14445. (<a href="1/mag_atr_pres.pdf">PDF</a>)</p>
+<p><strong>Make Up Work Assignments</strong></p>
+<p>Since attendance is mandatory, students who miss class must provide written summaries of the assigned readings.</p>
+<p>Following are samples of student summary papers for the session 9 readings, courtesy of Veronica Zepeda.</p>
+<ul>
+<li>Summary of "A Novel Ubiquitan Ligase is deficient in Fanconi Anemia."&nbsp;<em>Nature Genetics</em>&nbsp;35, 165-170. (<a href="1/veronica_ss91.pdf">PDF</a>)</li>
+<li>Summary of "The HPV-16 E6 and E6-AP Complex Functions as a Ubiquitin-Protein Ligase in the Ubiquitination of p53."&nbsp;<em>Cell</em>&nbsp;75, 495-505. (<a href="1/veronica_ss9_2.pdf">PDF</a>)</li>
+</ul>
+</br>
