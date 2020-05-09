@@ -15,7 +15,7 @@
    <li class="title"><a href="#course14">G-Protein Coupled Receptors: Vision and Disease</a></li>
   <li class="title"><a href="#course15">The Radical Consequences of Respiration: Reactive Oxygen Species in Aging and Disease</a></li>
    <li class="title"><a href="#course16">Photosynthesis: Life from Light</a></li>
-   <li class="title"><a href="#course17">Analysis II</a></li>
+   <li class="title"><a href="#course17">Directed Evolution: Engineering Biocatalysts</a></li>
     <li class="title"><a href="#course18">Introduction to Functional Analysis</a></li>
  <li class="title"><a href="#course19">Fourier Analysis</a></li>
   <li class="title"><a href="#course20">Functions of a Complex Variable</a></li>
@@ -1521,3 +1521,126 @@
 <li>Assignment 5 (<a href="1/ps2ex1.pdf">PDF</a>)</li>
 </ul>
 </br>
+<h2 id ="course17">Directed Evolution: Engineering Biocatalysts</h2>
+
+
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;SUMMARIES</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>We will get to know each other and spend some time talking about how to read journal articles. We will broadly discuss the process of directed evolution for enzyme engineering and what basic steps are involved in this approach.</td>
+<td>
+<p>Notes (<a href="1/ses1_ln.pdf">PDF</a>)</p>
+<p>Slides (<a href="1/ses1_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Library generation by point mutation</td>
+<td>We will begin our discussion of enzyme evolution with the topic of how to introduce mutations into the starting genes. One class of techniques is those relying on point mutations. We will discuss the error-prone polymerase chain reaction and oligonucleotide-directed mutagenesis. In principle, these methods lead to the production of an enzyme library that contains members having any of the 20 different amino acids at one specific position within a given protein.</td>
+<td>
+<p>Notes (<a href="1/ses2_ln.pdf">PDF</a>)</p>
+<p>Slides (<a href="1/ses2_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Library generation by recombination</td>
+<td>We will continue our discussion of library generation examining methods that are based on recombination, meaning DNA is broken and rejoined in new combinations. DNA shuffling, the best known method of recombination, allows useful mutations from multiple genes to be combined. Many methods have been developed based on this principle.</td>
+<td>
+<p>Notes (<a href="1/ses3_ln.pdf">PDF</a>)</p>
+<p>Slides (<a href="1/ses3_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Alternative methods for library generation</td>
+<td>There are a few methods for making a library that don't fit into either category previously discussed. We will read about two of these methods: chemical mutagenesis and the use of mutator strains. We will discuss why these methods are not as general or as widely used as those discussed previously.</td>
+<td>
+<p>Notes (<a href="1/ses4_ln.pdf">PDF</a>)</p>
+<p>Slides (<a href="1/ses4_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Enzyme evolution by genetic complementation</td>
+<td>In enzyme evolution, it is important to link the gene of interest, the enzyme it encodes and the product of the activity of the enzyme. Many methods exist for the selection of particular library members based on enzyme activity. We will begin be examining&nbsp;<em>in vivo</em>&nbsp;selection systems, which link cell survival to enzyme activity. Genetic complementation, the most basic of these selection systems, is the rescuing of a specific genetic defect leading to a particular phenotype by the addition of DNA encoding a gene of interest. Genetic complementation is often used to investigate the function of genes for which no function has previously been described.</td>
+<td>
+<p>Notes (<a href="1/ses5_ln.pdf">PDF</a>)</p>
+<p>Slides (<a href="1/ses5_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Enzyme evolution by chemical complementation</td>
+<td>Genetic complementation is often limited by the natural reactions one must use for selection. Chemical complementation is an extension of genetic complementation where a small molecule is used to reverse a genetically induced phenotypic change in intact cells. A chemical complementation strategy was developed using a small molecule to link a gene of interest to readout of enzyme activity via transcription of a reporter gene in a reaction-independent manner.</td>
+<td>
+<p>Notes (<a href="1/ses6_ln.pdf">PDF</a>)</p>
+<p>Slides (<a href="1/ses6_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Enzyme evolution using phage display</td>
+<td>Phage display technology was originally designed and used for the selection of proteins with high affinity for a particular ligand. Specifically, a library of proteins can be displayed on the surface of filamentous phage by fusion to a phage coat protein; fusion proteins are thereby accessible to ligands present in the external solution. Phage capable of binding a specific ligand may be retrieved using affinity purification and then used to infect&nbsp;<em>E. coli</em>&nbsp;for expression and characterization of the encoded library member. In recent years, phage display has become a useful tool for the evolution of catalytic function. We will focus first on understanding the basics of this technique and then examine a case using indirect selection based on affinity of a suicide substrate &ndash; a substrate that is irreversibly bound in an enzyme's active site.</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Enzyme evolution using phage display (cont.)</td>
+<td>Affinity selection for improved catalysts has limitations; not all enzymatic activities have suitable suicide substrates. Direct selection of enzymes on the basis of catalysis is possible using phage display technology, but is more complex as a physical link between the phage-bound enzyme and the substrate must be established. We will discuss how this type of selection is achieved using two different examples of substrate linkage</td>
+<td>
+<p>Notes (<a href="1/ses8_ln.pdf">PDF</a>)</p>
+<p>Slides (<a href="1/ses8_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Enzyme evolution using bacterial cell surface display</td>
+<td>Cell surface display is a technique for presenting proteins on the surface of bacteria by fusing the proteins to surface anchoring motifs or carrier proteins. Cells are typically screened using optical methods, like fluorescence microscopy or fluorescence assisted cell sorting (FACS).</td>
+<td>
+<p>Notes (<a href="1/ses9_ln.pdf">PDF</a>)</p>
+<p>Slides (<a href="1/ses9_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Enzyme evolution using yeast surface display</td>
+<td>Yeast surface display is similar to bacterial cell surface display in that a protein of interest is anchored to the membrane of the cell allowing for&nbsp;<em>in vitro</em>&nbsp;screening. A significant feature of the yeast surface display system is that it uses a eukaryotic host possessing the secretory and glycosylation machinery necessary for efficient oxidative protein folding and N-linked glycosylation. We will discuss yeast surface display and compare its utility with bacterial surface display.</td>
+<td>
+<p>Notes (<a href="1/ses10_ln.pdf">PDF</a>)</p>
+<p>Slides (<a href="1/ses10_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Enzyme evolution using ribosome display</td>
+<td>Ribosome display is a completely cell-free method for library selection. The physical link between genotype and phenotype in ribosome display is achieved by mRNA/ribosome/protein complexes formed in the translation step, which are directly used for selection. We will discuss the advantages of cell-free selection in the context of this technique.</td>
+<td>
+<p>Notes (<a href="1/ses11_ln.pdf">PDF</a>)</p>
+<p>Slides (<a href="1/ses11_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Enzyme evolution by&nbsp;<em>in vitro</em>&nbsp;compartmentalization</td>
+<td><em>In vitro</em>&nbsp;compartmentalization (IVC) is based on water-in-oil emulsions where surfactants aid in the formation of microscopic aqueous compartments. These compartments simulate cellular compartments in which only the reaction for selection is performed. Inside each droplet transcription, translation, and expression of the desired protein takes place using active components. This method is poised to become the most promising for the future of enzyme evolution &ndash; we'll discuss why.</td>
+<td>
+<p>Notes (<a href="1/ses12_ln.pdf">PDF</a>)</p>
+<p>Slides (<a href="1/ses12_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Alternative methods for enzyme/catalyst design</td>
+<td>We will wrap up our discussion about directed evolution and compare and contrast the methods we have learned about in previous weeks. This week we will also spend time looking at approaches for enzyme evolution based on rational design and discuss the advantages or disadvantages of these methods as compared with directed evolution.</td>
+<td>
+<p>Notes (<a href="1/ses13_ln.pdf">PDF</a>)</p>
+<p>Slides (<a href="1/ses13_slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Student presentations</td>
+<td>During this last class session each student will give a presentation about his or her chosen paper. We will follow these presentations with a discussion about the course and a written course evaluation.</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
