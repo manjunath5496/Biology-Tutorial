@@ -28,6 +28,7 @@
       <li class="title"><a href="#course27">Systems Biology</a></li>
     <li class="title"><a href="#course28">Computational Functional Genomics</a></li>
    <li class="title"><a href="#course29">Neurology, Neuropsychology, and Neurobiology of Aging</a></li>
+    <li class="title"><a href="#course30">Neural Plasticity in Learning and Development</a></li>
 </ul>
 </br>
 
@@ -2297,4 +2298,17 @@
 <li style="text-align: justify;">Source Memory in Older Adults: An Encoding or Retrieval Problem (<a href="3/9110_glis_1983f6.pdf">PDF</a>)</li>
 </ul>
 </br>
+
+<h2 id ="course30">Neural Plasticity in Learning and Development</h2>
+
+<ul>
+<li>Lecture 1: Introduction (<a href="3/lecture_1_Notes.pdf">PDF</a>)</li>
+<li>Lecture 2: Behavior and Plasticity (<a href="3/lecture_2_notes.pdf">PDF</a>)</li>
+<li>Lecture 3: Synaptic Transmission (<a href="3/lecture_3_Notes.pdf">PDF</a>)</li>
+<li>Lecture 4: Potentiation of Synaptic Transmission (<a href="3/lecture_4_Notes.pdf">PDF</a>)</li>
+<li>Lecture 5: Expression of Plasticity (<a href="3/lecture_5_Notes.pdf">PDF</a>)</li>
+</ul>
+</br>
+
+
 
