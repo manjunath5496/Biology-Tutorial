@@ -23,68 +23,9 @@
     <li class="title"><a href="#course22">Introduction to Bioengineering</a></li>
      <li class="title"><a href="#course23">Graduate Biochemistry</a></li>
     <li class="title"><a href="#course24">Principles and Practice of Drug Development</a></li>
-   <li class="title"><a href="#course25">Theory of Probability</a></li>
+   <li class="title"><a href="#course25">Developmental Neurobiology</a></li>
    <li class="title"><a href="#course26">Universal Random Structures in 2D</a></li>
-   <li class="title"><a href="#course27">Algebraic Combinatorics</a></li>
-    <li class="title"><a href="#course28">Probabilistic Method in Combinatorics</a></li>
- <li class="title"><a href="#course29">Geometry and Quantum Field Theory</a></li>
-  <li class="title"><a href="#course30">Linear Partial Differential Equations</a></li>
-   <li class="title"><a href="#course31">Advanced Analytic Methods in Science and Engineering</a></li>
-    <li class="title"><a href="#course32">Advanced Partial Differential Equations with Applications</a></li>
-     <li class="title"><a href="#course33">Integral Equations</a></li>
-      <li class="title"><a href="#course34">Principles of Discrete Applied Mathematics</a></li>
-      <li class="title"><a href="#course35">Principles of Applied Mathematics</a></li>
-    <li class="title"><a href="#course36">Combinatorial Theory: Hyperplane Arrangements</a></li>
-     <li class="title"><a href="#course37">Topics in Algebraic Combinatorics</a></li>
-    <li class="title"><a href="#course38">Topics in Applied Mathematics: Waves and Imaging</a></li>
- <li class="title"><a href="#course39">Wavelets, Filter Banks and Applications</a></li>
-  <li class="title"><a href="#course40">Introduction to Numerical Analysis</a></li>
-   <li class="title"><a href="#course41">Introduction to Numerical Methods</a></li>
-  <li class="title"><a href="#course42">Numerical Methods for Partial Differential Equations</a></li>
-   <li class="title"><a href="#course43">Infinite Random Matrix Theory</a></li>
-    <li class="title"><a href="#course44">Nonlinear Dynamics II: Continuum Systems</a></li>
-     <li class="title"><a href="#course45">Interfacial Phenomena</a></li>
-      <li class="title"><a href="#course46">Introduction to Modeling and Simulation</a></li>
- <li class="title"><a href="#course47">Random Walks and Diffusion</a></li>
-  <li class="title"><a href="#course48">Nonlinear Dynamics and Chaos</a></li>
-   <li class="title"><a href="#course49">Advanced Complexity Theory</a></li>
-   <li class="title"><a href="#course50">Algorithmic Aspects of Machine Learning</a></li>
-  <li class="title"><a href="#course51">Behavior of Algorithms</a></li>
-   <li class="title"><a href="#course52">Design and Analysis of Algorithms</a></li>
-  <li class="title"><a href="#course53">Probability and Random Variables</a></li>
-   <li class="title"><a href="#course54">Introduction to Stochastic Processes</a></li>
- <li class="title"><a href="#course55">Statistics for Applications</a></li>
-  <li class="title"><a href="#course56">Mathematical Statistics</a></li>
-  <li class="title"><a href="#course57">Mathematics of Machine Learning</a></li>
-  <li class="title"><a href="#course58">Seminar in Algebra and Number Theory: Rational Points on Elliptic Curves</a></li>
- <li class="title"><a href="#course59">Introduction to Representation Theory</a></li>
-  <li class="title"><a href="#course60">Algebraic Geometry</a></li>
-  <li class="title"><a href="#course61">Double Affine Hecke Algebras in Representation Theory, Combinatorics, Geometry, and Mathematical Physics</a></li>
-   <li class="title"><a href="#course62">Introduction to Lie Groups</a></li>
-    <li class="title"><a href="#course63">Theory of Numbers</a></li>
- <li class="title"><a href="#course64">Introduction to Arithmetic Geometry</a></li>
-  <li class="title"><a href="#course65">Elliptic Curves</a></li>
-   <li class="title"><a href="#course66">Number Theory I</a></li>
- <li class="title"><a href="#course67">Number Theory II: Class Field Theory</a></li>
-  <li class="title"><a href="#course68">Introduction to Topology</a></li>
-   <li class="title"><a href="#course69">Algebraic Topology I</a></li>
-  <li class="title"><a href="#course70">Algebraic Topology II</a></li>
-   <li class="title"><a href="#course71">Differential Geometry</a></li>
-   <li class="title"><a href="#course72">Geometry of Manifolds</a></li>
-    <li class="title"><a href="#course73">Topics in Geometry: Mirror Symmetry</a></li>
-     <li class="title"><a href="#course74">Topics in Geometry: Dirac Geometry</a></li>
-      <li class="title"><a href="#course75">Random Matrix Theory and Its Applications</a></li>
-    <li class="title"><a href="#course76">Topics in Theoretical Computer Science: Internet Research Problems</a></li>
- <li class="title"><a href="#course77">Simplicity Theory</a></li>
- <li class="title"><a href="#course78">Topics in Combinatorial Optimization</a></li>
-  <li class="title"><a href="#course79">Topics in Mathematics of Data Science</a></li>
-  <li class="title"><a href="#course80">Topics in Mathematics with Applications in Finance</a></li>
-   <li class="title"><a href="#course81">High-Dimensional Statistics</a></li>
-    <li class="title"><a href="#course82">The Polynomial Method</a></li>
-     <li class="title"><a href="#course83">Distributed Algorithms</a></li>
-    <li class="title"><a href="#course84">Quantum Computation</a></li>
-   <li class="title"><a href="#course85">Advanced Algorithms</a></li>
-   <li class="title"><a href="#course86">Error-Correcting Codes Laboratory</a></li>
+   
 </ul>
 </br>
 
@@ -2065,6 +2006,51 @@
 
 </br>
 
+<h2 id ="course25">Developmental Neurobiology</h2>
 
 
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl793id0_1" scope="col">PAPERS</th>
+<th id="tbl793id0_2" scope="col">STUDENT PRESENTATIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl793id0_1">Kulesa, P., M. Bronner - Fraser, and S. Fraser. "In Ovo Time- Lapse Analysis After Dorsal Neural Tube Ablation Shows Rerouting of Chick Hindbrain Neural Crest."&nbsp;<em>Development</em>&nbsp;127 (2002): 2843-2852.</td>
+<td headers="tbl793id0_2">Diandra Lucia (<a href="2/lec08_diand_kul.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl793id0_1">
+<p>Cheng, L., A. Arata, R. Mizuguchi, Y. Qian, A. Karunaratne, P. A. Gray, S. Arata, S. Shirasawa, M. Bouchard, P. Luo, C. Chen, M. Busslinger, M. Goulding, H. Onimaru,&nbsp;and Q. Ma. "Tlx3 and Tlx1 are Post - mitotic Selector Genes Determining Glutamatergic Over GABAergic Cell Fates."&nbsp;<em>Nature Neuroscience</em>&nbsp;7 (2004): 510-517.</p>
+<p>Belliveau, M. J., and C. L. Cepko. "Extrinsic and Intrinsic Factors Control the Genesis of Amacrine and Cone Cells in the Rat Retina."&nbsp;<em>Development</em>&nbsp;126 (1999): 555-566.</p>
+</td>
+<td headers="tbl793id0_2">
+<p>Lena Khibnik (<a href="2/lec09_lena_cheng.pdf">PDF</a>)<br /><br />Bo Morgan (<a href="2/lec09_morg_bell.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td headers="tbl793id0_1">Shen, Q., W. Zhong, Y. N. Jan, and S. Temple. "Asymmetric Numb Distribution is Critical for Asymmetric Cell Division of Mouse Cerebral Cortical Stem Cells and Neuroblasts."&nbsp;<em>Development</em>&nbsp;129 (2002): 4843-4853.</td>
+<td headers="tbl793id0_2">
+<p>Tony Walters (<a href="2/lec11_walt_shen.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl793id0_1">Piper, M., S. Salih, C. Weinl, C. E. Holt, and W. A. Harris. "Endocytosis -Dependent Desensitization and Protein Synthesis - Dependent Resensitization in Retinal Growth Cone Adaptation."&nbsp;<em>Nature</em>&nbsp;<em>Neuroscience</em>&nbsp;(January 9, 2005).</td>
+<td headers="tbl793id0_2">Tom Davidson (<a href="2/lec13_david_pier.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl793id0_1">
+<p>Putz, U., C. Harwell, et al. "Soluble CPG15 Expressed During Early Development Rescues Cortical Progenitors from Apoptosis."&nbsp;<em>Nature Neuroscience</em>&nbsp;8, no. 3 (2005): 322-31.</p>
+<p>Blaschke, A. J., K. Staley, et al. "Widespread Programmed Cell Death in Proliferative and Postmitotic Regions of the Fetal Cerebral Cortex."&nbsp;<em>Development</em>&nbsp;122, no. 4 (1996): 1165-74.</p>
+</td>
+<td headers="tbl793id0_2">
+<p>Lauren LeBon (<a href="2/lec15_lebon_putz.pdf">PDF</a>)<br /><br />&nbsp;</p>
+<p>Jonathan Reinharth (<a href="2/lec15_rein_blas.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
 
+</br>
