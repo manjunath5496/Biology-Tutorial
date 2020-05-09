@@ -2105,7 +2105,33 @@
 </table>
 </br>
 
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">EXAMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="2/MIT5_08jS16exam1.pdf">Exam 1 (PDF)</a></td>
+<td><a href="2/MIT5_08jS16exam1_soln.pdf">Exam 1 Solution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT5_08jS16exam2.pdf">Exam 2 (PDF)</a></td>
+<td><a href="2/MIT5_08jS16exam2_soln.pdf">Exam 2 Solution (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="2/MIT5_08jS16exam3.pdf">Exam 3 (PDF)</a></td>
+<td><a href="2/MIT5_08jS16exam3_soln.pdf">Exam 3 Solution (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="2/MIT5_08jS16FinalExam.pdf">Final Exam (PDF - 1.1MB)</a></td>
+<td><a href="2/MIT5_08jS16FinalExam_soln.pdf">Final Exam Solution (PDF - 1.4MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
