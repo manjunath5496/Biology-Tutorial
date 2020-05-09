@@ -7,7 +7,7 @@
   <li class="title"><a href="#course6">Biological Chemistry II</a></li>
    <li class="title"><a href="#course7">Topics in Experimental Biology </a></li>
     <li class="title"><a href="#course8">Molecular Biology </a></li>
- <li class="title"><a href="#course9">Introduction to Probability and Statistics</a></li>
+ <li class="title"><a href="#course9">Ecology I: The Earth System</a></li>
   <li class="title"><a href="#course10">Linear Algebra </a></li>
   <li class="title"><a href="#course11">Mathematics for Computer Science</a></li>
    <li class="title"><a href="#course12">Linear Algebra - Communications Intensive </a></li>
@@ -930,4 +930,166 @@
 <li>Exam 3 (<a href="1/exm3_ans.pdf">PDF</a>)</li>
 </ul>
 </br>
+<h2 id ="course9">Ecology I: The Earth System</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Introduction: what is ecology?</td>
+<td style="height: 13px;">(<a href="1/MIT1_018JF09_Lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 83px;">
+<td style="height: 83px;">How to be alive/thermodynamics of life</td>
+<td style="height: 83px;">
+<p>(<a href="1/MIT1_018JF09_Lec03.pdf">PDF - 1.3MB</a>)</p>
+<p>Redox handout (<a href="1/MIT1_018JF09_lec03_Redox.pdf">PDF</a>)</p>
+<p>Photosynthesis handout (<a href="1/MIT1_018JF09_lec03_Photo.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">CI lecture: getting started with the term project</td>
+<td style="height: 13px;">(<a href="1/MIT1_018JF09_Lec04.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Primary productivity I and II</td>
+<td style="height: 13px;">(<a href="1/MIT1_018JF09_Lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Biogeochemical cycles</td>
+<td style="height: 13px;">(<a href="1/MIT1_018JF09_Lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Limiting factors and Redfield</td>
+<td style="height: 13px;">(<a href="1/MIT1_018JF09_Lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Ecosystem experiments/geoengineering</td>
+<td style="height: 13px;">(<a href="1/MIT1_018JF09_Lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Secondary productivity/food webs</td>
+<td style="height: 13px;">(<a href="1/MIT1_018JF09_Lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row" style="height: 59px;">
+<td style="height: 59px;">Population growth</td>
+<td style="height: 59px;">
+<p>Introduction (<a href="1/MIT1_018JF09_Lec13.pdf">PDF</a>)</p>
+<p>Slides (<a href="1/MIT1_018JF09_Lec13_Slides.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row" style="height: 59px;">
+<td style="height: 59px;">Chemostats/life tables</td>
+<td style="height: 59px;">
+<p>(<a href="1/MIT1_018JF09_Lec14.pdf">PDF</a>)</p>
+<p>Chemostat handout (<a href="1/MIT1_018JF09_Lec14_chemo.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row" style="height: 13px;">
+<td style="height: 13px;">Competition and the niche</td>
+<td style="height: 13px;">(<a href="1/MIT1_018JF09_Lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row" style="height: 13px;">
+<td style="height: 13px;">Predation/symbiosis/mutualism</td>
+<td style="height: 13px;">(<a href="1/MIT1_018JF09_Lec18.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">FILES</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Problem set 1</td>
+<td>(<a href="1/MIT1_018JF09_hw1.pdf">PDF</a>)</td>
+<td>(<a href="1/MIT1_018JF09_hw1_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2</td>
+<td>(<a href="1/MIT1_018JF09_hw2.pdf">PDF - 3.1MB</a>)</td>
+<td>(<a href="1/MIT1_018JF09_hw2_ans.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3</td>
+<td>(<a href="1/MIT1_018JF09_hw3.pdf">PDF</a>)</td>
+<td>(<a href="1/MIT1_018JF09_hw3_ans.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">STUDY GUIDES</th>
+<th scope="col">PRACTICE EXAMS</th>
+<th scope="col">PRACTICE EXAM SOLUTIONS</th>
+<th scope="col">EXAM SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>(<a href="1/MIT1_018JF09_guide_1.pdf">PDF</a>)</td>
+<td>(<a href="1/MIT1_018JF09_study_1.pdf">PDF</a>)</td>
+<td>(<a href="1/MIT1_018JF09_study_sol_1.pdf">PDF</a>)</td>
+<td>(<a href="1/MIT1_018JF09_exam_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>(<a href="1/MIT1_018JF09_guide_2.pdf">PDF</a>)</td>
+<td>(<a href="1/MIT1_018JF09_study_2.pdf">PDF</a>)</td>
+<td>(<a href="1/MIT1_018JF09_study_sol_2.pdf">PDF</a>)</td>
+<td>(<a href="1/MIT1_018JF09_exam_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>(<a href="1/MIT1_018JF09_guide_3.pdf">PDF</a>)</td>
+<td>(<a href="1/MIT1_018JF09_study_3.pdf">PDF</a>)</td>
+<td>(<a href="1/MIT1_018JF09_study_sol_3.pdf">PDF</a>)</td>
+<td>(<a href="1/MIT1_018JF09_exam_3.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Term project instructions (<a href="1/MIT1_018JF09_Term_Project.pdf">PDF</a>)</p>
+<p>Project description instructions (<a href="1/MIT1_018JF09_Proj_Desc.pdf">PDF</a>)</p>
+</br>
+<table class="tablewidth" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">STUDENT&nbsp;EXAMPLE&nbsp;PAPERS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>A proposal for limited implementation of a sunshade to evaluate the effects of albedo modification on global biogeochemical cycles</td>
+<td>(<a href="1/MIT1_018JF09_sw_paper1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Testing the unintended consequences of lignin reduction in genetically modified trees on trophic interactions</td>
+<td>(<a href="1/MIT1_018JF09_sw_paper2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Investigation of the effects of stratospheric sulfur injection on terrestrial autotroph productivity via experimentation with diffuse radiation controlled greenhouses</td>
+<td>(<a href="1/MIT1_018JF09_sw_paper3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The unintended consequences of sulfate aerosols in the troposphere and lower stratosphere</td>
+<td>(<a href="1/MIT1_018JF09_sw_paper4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Assessing excess carbon emissions and soil toxicity as unintended consequences in applying biochar as a geoengineering scheme</td>
+<td>(<a href="1/MIT1_018JF09_sw_paper5.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
 
