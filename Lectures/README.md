@@ -25,7 +25,7 @@
     <li class="title"><a href="#course24">Principles and Practice of Drug Development</a></li>
    <li class="title"><a href="#course25">Developmental Neurobiology</a></li>
    <li class="title"><a href="#course26">Biological Chemistry II</a></li>
-   
+      <li class="title"><a href="#course27">Systems Biology</a></li>
 </ul>
 </br>
 
@@ -2133,7 +2133,77 @@
 </table>
 </br>
 
+<h2 id ="course27">Systems Biology</h2>
 
 
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td headers="col1"><strong>Part I: Systems Microbiology - 'The Cell as a Well-stirred Bioreactor'</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Introduction (<a href="2/l1_notes.pdf">PDF</a>)<br /><br />Michaelis-Menten Kinetics</td>
+</tr>
+<tr class="row">
+<td headers="col2">Equilibrium Binding<br /><br />Cooperativity</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Lambda Phage (<a href="2/l3_notes.pdf">PDF</a>)<br /><br />Multistability<br /><br />Associated MATLAB&reg; Code File (<a href="2/CodeI2.m">M</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Multistability (cont.) (<a href="2/l4_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Synthetic Genetic Switches</td>
+</tr>
+<tr class="row">
+<td headers="col2">Stability Analysis (<a href="2/l6_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Introduction&nbsp;<em>E. coli</em>&nbsp;Chemotaxis (<a href="2/l7_notes.pdf">PDF - 1.3 MB</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Fine-tuned versus Robust Chemotaxis Models (<a href="2/l8_notes.pdf">PDF</a>)<br /><br />Associated MATLAB&reg; Code File (<a href="2/CodeI4.m">M</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Wrapping up Chemotaxis (<a href="2/l9_notes.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="row">
+<td headers="col2">Genetic Oscillators (<a href="2/l10_notes.pdf">PDF</a>)<br /><br />Associated MATLAB&reg; Code File (<a href="2/CodeI6.m">M</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1"><strong>Part II: Cell Systems Biology - 'The Importance of Diffusion and Gradients for Cellular Regulation'</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Introduction Cell Systems Biology (<a href="2/l14_notes.pdf">PDF</a>)<br /><br />Fick's Laws</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Local Excitation (cont.) (<a href="2/l16_notes.pdf">PDF</a>)<br /><br />Global Inhibition Theory (cont.)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Rapid Pole-to-pole Oscillations in&nbsp;<em>E. coli</em>&nbsp;(<a href="2/l17_notes.pdf">PDF</a>)
+<p>Associated MATLAB&reg; Code File (<a href="2/how_homog.m">M - 1 of 2</a>) (<a href="2/">M - 2 of 2</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Rapid Pole-to-pole Oscillations in&nbsp;<em>E. coli</em>&nbsp;(cont.) (<a href="2/l18_notes.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="alt-row">
+<td headers="col2">Models for Eukaryotic Gradient Sensing&nbsp; (<a href="2/l20_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col1"><strong>Part III: Developmental Systems Biology - 'Building an Organism Starting From a Single Cell'</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Quorum Sensing (<a href="2/l23_notes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Drosophila Development (<a href="2/l25_notes.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
