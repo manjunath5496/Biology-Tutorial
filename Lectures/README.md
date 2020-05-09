@@ -9,7 +9,7 @@
     <li class="title"><a href="#course8">Molecular Biology </a></li>
  <li class="title"><a href="#course9">Ecology I: The Earth System</a></li>
   <li class="title"><a href="#course10">Under the Radar Screen: How Bugs Trick Our Immune Defenses</a></li>
-  <li class="title"><a href="#course11">Mathematics for Computer Science</a></li>
+  <li class="title"><a href="#course11">Nano-life: An Introduction to Virus Structure and Assembly</a></li>
    <li class="title"><a href="#course12">Linear Algebra - Communications Intensive </a></li>
   <li class="title"><a href="#course13">Advanced Calculus for Engineers </a></li>
    <li class="title"><a href="#course14">Mathematical Methods for Engineers II</a></li>
@@ -1155,3 +1155,34 @@
 </table>
 
 </br>
+<h2 id ="course11">Nano-life: An Introduction to Virus Structure and Assembly</h2>
+
+<ul>
+<li class="subhead"><strong>Assignment 1: Build a Capsid Model</strong></li>
+</ul>
+<p>You have been given a hexagonal lattice of humanoid figures (a homuncu-lattice, if you will) representing capsid subunits printed onto 11" x 17" card stock. Your assignment is to cut out triangular faces of the lattice and construct an icosahedron representing a capsid shell of a T number of your choosing. Pick one of these T numbers only: 7, 9, or 12. The face sizes will be determined by your chosen T number.</p>
+<p>Hexagonal lattice (<a href="1/homunculattice.pdf">PDF</a>) (Image by Peter Weigele.)</p>
+<p>Hints and questions/exercises (<a href="1/7_340_assign_1.pdf">PDF</a>)</p>
+<p>Final product: Photo of the homunculattice assignment (<a href="1/classcapsids2.jpg">JPG</a>) (Photo by Peter Weigele.)</p>
+<ul>
+<li class="subhead"><strong>Assignment 2: Designing a Set of Experiments for a given Abstract</strong></li>
+</ul>
+<p>You are given a sample abstract from a scientific paper and are asked to design a set of experiments that would support the conclusions presented in it.</p>
+<p>Sample abstract and guidelines for your experimental design (<a href="1/abstractwriteup2.pdf">PDF</a>)</p>
+<p>Example experiment design papers are included courtesy of and used with permission of the students listed below.</p>
+<p>"Expression of full length Jabpol and recombinant PR in MOS human cell lines." (<a href="1/assignment2_anna.pdf">PDF</a>) (By Anna Bruchez.)</p>
+<p>Assignment #2 paper (<a href="1/Andrew_Assignment2.pdf">PDF</a>) (By Andrew Guerra.)</p>
+<ul>
+<li class="subhead"><strong>Assignment 3: Independent Research Proposal</strong></li>
+</ul>
+<p>As you progress in your scientific career (especially if you continue on in academia), you will be asked many times to develop and design independent research proposals. A considerable amount of work goes into designing a rational set of experiments before you ever venture into the lab to perform them.&nbsp;Research proposals are often required for fellowship and grant applications so financers of said experiments can see you have thought about the problem at hand in a logical way.&nbsp;This is a chance for you to practice the techniques involved in developing a set of experiments to solve a biological problem.</p>
+<p>General guidelines and required proposal content (<a href="1/research_prop1.pdf">PDF</a>)</p>
+<p>Example research proposal papers are included courtesy of and used with permission of the students listed below.</p>
+<p>"Towards new structural insights into the process of Poliovirus RNA translocation upon infection." (<a href="1/hf_nanolifefinal.pdf">PDF</a>) (By Henning Freidrich.)</p>
+<p>"Structure of the RNA Channel Formed between Poliovirus and the Afflicted Cell During Infection." (<a href="1/7_340_proposal.pdf">PDF</a>) (By Jim Culver.)</p>
+
+</br>
+
+
+
+
