@@ -13,7 +13,7 @@
    <li class="title"><a href="#course12">Ubiquitination: The Proteasome and Human Disease </a></li>
   <li class="title"><a href="#course13">Chronic Infection and Inflammation: What are the Consequences on Your Health? </a></li>
    <li class="title"><a href="#course14">G-Protein Coupled Receptors: Vision and Disease</a></li>
-  <li class="title"><a href="#course15">Mathematical Exposition</a></li>
+  <li class="title"><a href="#course15">The Radical Consequences of Respiration: Reactive Oxygen Species in Aging and Disease</a></li>
    <li class="title"><a href="#course16">Analysis I</a></li>
    <li class="title"><a href="#course17">Analysis II</a></li>
     <li class="title"><a href="#course18">Introduction to Functional Analysis</a></li>
@@ -1419,5 +1419,99 @@
 </table>
 
 </br>
+
+<h2 id ="course15">The Radical Consequences of Respiration: Reactive Oxygen Species in Aging and Disease</h2>
+
+
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;SUMMARIES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and background</td>
+<td>
+<p>Instructor and students will introduce themselves, their backgrounds, and reasons for participating in the course. I will present the overall scope, requirements and assignments for the course. I will also review techniques for reading and analyzing the primary literature. A short overview of oxygen radical biochemistry will be provided. We will read and discuss a one-page concept paper (Abele, D. "The radical life-giver."&nbsp;<em>Nature</em>&nbsp;420 (2004): 27). Lastly, I will briefly introduce the topic for the following week's papers.</p>
+<p>Lecture 1 (<a href="1/lecture-notes/lecture1.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>The high price of energy: Mitrochondrial production of ROS</td>
+<td>Mitochondria are known as "the powerhouses" of the cell due to their coupling of aerobic oxidation of food to production of the cellular energy currency, ATP, through the process of oxidative phosphorylation. This process involves transfer of electrons from food substrates to oxygen. About 90% of the total ROS produced in the cell arise as byproducts of inefficient aerobic electron transfer.</td>
+</tr>
+<tr class="row">
+<td>Radical messengers: ROS as facilitators of cellular signaling</td>
+<td>One of the cellular adaptations to aerobic respiration has been the ability to use ROS as signaling messengers by using their oxidation ability to reversibly modify the active site cysteines of phosphatases.</td>
+</tr>
+<tr class="alt-row">
+<td>Hired assassins: ROS in anti-pathogen defense</td>
+<td>
+<p>Last week we discussed how moderate ROS levels modulate signaling pathways. The best evidence for ROS in normal physiological functioning comes from the existence of specific enzymes, namely NADPH oxidases or Nox, whose function is to produce controlled bursts of oxygen radicals. Nox enzyme function is particularly useful in immune cells, such as neutrophils, mast cells and macrophages, in which the oxygen radical production is used to activate proteases to kill invading bacteria and other pathogens.</p>
+</td>
+</tr>
+<tr class="row">
+<td>Antioxidants: fighting the good fight</td>
+<td>
+<p>This class will involve a discussion of how we are protected from the potentially toxic side effects of respiratory byproducts. Today's papers discuss the merits/limitations of dietary antioxidants.</p>
+<p>Lecture 5 (<a href="1/lecture-notes/lecture5.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>The free radical theory: ROS and aging</td>
+<td>
+<p>In 1957, Denham Harman first proposed that organisms age because their cells accumulate oxygen radical-induced damage over time. This is known as the free radical theory of aging. Twenty years later, Harman extended his theory to include the idea that the damaging radicals arise from age-related mitochondrial dysfunction. Although the free radical theory has garnered a lot of support over the years, its validation would require: 1) causally relating mitochondrial dysfunction with increasing ROS levels and accelerated aging and 2) demonstrating the ability to extend lifespan through reduction of ROS levels.</p>
+<p>Lecture 6 (<a href="1/lecture-notes/lecture6.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>The root of the problem: oxidative damage in stem cell renewal</td>
+<td>As we discussed last week, oxidative stress is strongly implicated in the induction of aging. It has been hypothesized that aging is brought about by the loss of stem cell regenerative ability, eventually leading to tissue degeneration. To understand the role that ROS play in stem cell regeneration, we will discuss two papers that focus on the effects of oxidative stress and damage to hematopoietic stem cells (HSCs).</td>
+</tr>
+<tr class="alt-row">
+<td>Balancing act: ROS effects on insulin resistance and diabetes</td>
+<td>
+<p>Insulin normally facilitates the transport of blood sugar derived from the foods we consume into our cells. Insulin resistance is a state in which cells no longer respond functionally to insulin levels, leading to its overproduction by the pancreas and the consequent buildup of blood sugar and fat. Insulin resistance is a critical feature of Type 2 diabetes. Today we will discuss the effects of ROS on modulating glucose metabolism and homeostasis via insulin levels.</p>
+<p>Lecture 8 (<a href="1/lecture-notes/lecture8.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Breaking hearts: ROS in ischemic reperfusion injury</td>
+<td>
+<p>Heart attacks cause damage to heart muscles by severely inhibiting blood supply to the heart. This reduction in cardiac blood flow is known as ischemia. Ischemic heart diseases such as atherosclerosis are the most common cause of death in western countries. Although returning blood to cardiac tissues (reperfusion) is the only way to salvage the dying heart, in the 1970s it was discovered that the reintroduction of blood and hence oxygen led to rapid and profound injury to heart tissue. The reoxygenation-associated injury has since been thought to be due to oxygen radicals that flood the anoxic heart and damage lipids and DNA components causing death of cardiac cells. A key debate has centered on whether the reoxygenation in fact kills heart cells via ROS-induced inflammation or whether it simply allows already dying cells to burst through osmotic effects. One way to address this question is to test the ability of antioxidants to reduce or prevent reperfusion injury.</p>
+<p>Lecture 9 (<a href="1/lecture-notes/lecture9.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Brain drain: oxidative stress in neurodegenerative diseases</td>
+<td>
+<p>A number of neurodegenerative diseases such as Alzheimer's and Parkinson's diseases are associated with aging and its accompanying mitochondrial dysfunction and increased ROS levels. Amyotropic Lateral Sclerosis (ALS) or Lou Gehrig's disease is characterized by mutations in the antioxidant SOD1 gene. For many years, a causal role for ROS and mitochondrial defects in this disease has been hotly debated, with antioxidants being suggested as viable therapies. Several studies have proposed increased oxidative stress due to impaired superoxide scavenging by SOD1 as a causal mechanism for ALS.</p>
+<p>Lecture 10 (<a href="1/lecture-notes/lecture10.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Foot-soldiers of renegade cells: ROS in cancer and oncogenic transformation</td>
+<td>Nearly 30 years ago, Bruce Ames proposed that mutagens were carcinogens and that the most potent endogenous mutagens were oxygen radicals. For a long time, it was believed that the central role of ROS in cancer was their ability to damage DNA and cause mutations. However, recent studies show that the involvement of ROS in tumor formation and progression is quite complex, involving both aberrant ROS signaling as well as ROS-induced damage. Today we will focus on the role of superoxide production by the oncogene Ras. Introduction of Ras into normal cells causes them to undergo cellular senescence; however, if the senescence pathways are compromised, oncogenic Ras expression can transform them into tumorigenic cells.</td>
+</tr>
+<tr class="alt-row">
+<td>Fighting fire with fire: more ROS or less ROS as therapeutic strategies?</td>
+<td>
+<p>Given the central role of ROS in the different pathologies we have discussed during the course of this class, therapeutic strategies involving ROS are being developed in a number of areas. In several cases of neurological or cardiac diseases, ROS scavengers or antioxidants have been found to reduce ROS-related tissue injury. However, in the case of tumors antioxidant therapy has been of limited benefit and therapeutic intervention involving ROS upregulation has proved more promising.</p>
+<p>Lecture 12 (<a href="1/lecture-notes/lecture12.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Final class presentations</td>
+<td>
+<p>The oral presentations based on your final paper will be due today. You should prepare a 10-minute talk (using Microsoft&reg; PowerPoint&reg; slides). Your presentation should include a short introduction to the question you are addressing. Briefly summarize the conflicting evidence from the two papers you have chosen and then explain the experimental model and approach you have used to resolve the issue at hand. Describe how your proposed experiments help resolve the central issue of your topic. After each talk, we will spend a few minutes discussing the talk with the rest of the class. At the end of the presentations, I will provide feedback about the talks and your papers.</p>
+<p>Lecture 13 (<a href="1/lecture-notes/lecture13.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
 
