@@ -26,6 +26,7 @@
    <li class="title"><a href="#course25">Developmental Neurobiology</a></li>
    <li class="title"><a href="#course26">Biological Chemistry II</a></li>
       <li class="title"><a href="#course27">Systems Biology</a></li>
+    <li class="title"><a href="#course28">Computational Functional Genomics</a></li>
 </ul>
 </br>
 
@@ -2207,3 +2208,86 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course28">Computational Functional Genomics</h2>
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<tbody>
+<tr class="row">
+<td colspan="2" headers="tbl433id0_0"><strong>Part 1: Using DNA Sequence to Explain Mechanism</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Course Introduction (<a href="2/lecture_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Pairwise Alignment (<a href="2/lecture_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Finding Regulatory Sequences in DNA: Motif Discovery (<a href="2/lecture_3and4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Finding Regulatory Sequences in DNA: Motif Discovery (cont.) (<a href="2/lecture_3and4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2" headers="tbl433id0_0"><strong>Part 2: Observing the Mechanism of Transcriptional Regulation</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Microarray Technology (<a href="2/lecture_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Expression Arrays, Normalization, and Error Models (<a href="2/lecture_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Expression Profiles, Clustering, and Latent Processes (<a href="2/lecture_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Computational Functional Genomics (<a href="2/lecture_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Stem Cells and Transcriptional Regulation</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Part One: An Example of Clustering Expression Data (<a href="2/lecture_10pt1.pdf">PDF</a>)<br /><br />Part Two: Computational Functional Genomics (cont.) (<a href="2/lecture_10pt2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Computational Discovery of Regulatory Networks&nbsp;<span class="nobr">(<a href="2/lecture_11_gerber.pdf">PDF - 2.3 MB</a>)</span>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">RNA Silencing (<a href="2/lecture12_bartel.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2" headers="tbl433id0_0"><strong>Part 3: Building Predictive Network Models of Transcriptional Regulation</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Computational Functional Genomics (cont.) (<a href="2/lecture_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Human Regulatory Networks (<a href="2/lecture_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">Causal Models (<a href="2/lecture_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl433id0_1">Causal Bayesian Networks, Active Learning (<a href="2/lecture_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl433id0_1">From Biological Data to Biological Insight (<a href="2/lec19_friedman.pdf">PDF</a>)</td>
+</tr>
+<tr class="white-row">
+<td headers="tbl433id0_1">Modeling Transcriptional Regulation (<a href="2/lecture_20.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+<ul>
+<li>"Modeling the Human Transcriptome using Factor Analysis," by Garrett Frampton (<a href="2/transcriptome.pdf">PDF</a>)</li>
+<li>"Spectral Clustering for Microrray Data," by Alvin Liang, Cameron Wheeler, and Grant Wang (<a href="2/spectral_cluster.pdf">PDF</a>)</li>
+<li>"Using Phylogenomics to Predict Novel Fungal Pathogenicity Genes," by Ying Li, David DeCaprio, and Hung Nguyen (<a href="2/phylogenomics.pdf">PDF</a>)</li>
+<li>"Whole-genome Analysis of GCN4 Binding in&nbsp;<em>S.cerevisiae</em>," by Alex Mallet, and Lillian Dai (<a href="2/gcn4.pdf">PDF</a>)</li>
+</ul>
+
+</br>
+
+
+
