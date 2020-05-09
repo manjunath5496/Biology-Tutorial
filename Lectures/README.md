@@ -21,7 +21,7 @@
   <li class="title"><a href="#course20">Synaptic Plasticity and Memory, from Molecules to Behavior</a></li>
    <li class="title"><a href="#course21">Foundations of Computational and Systems Biology</a></li>
     <li class="title"><a href="#course22">Introduction to Bioengineering</a></li>
-     <li class="title"><a href="#course23">Differential Analysis</a></li>
+     <li class="title"><a href="#course23">Graduate Biochemistry</a></li>
     <li class="title"><a href="#course24">Differential Analysis II: Partial Differential Equations and Fourier Analysis</a></li>
    <li class="title"><a href="#course25">Theory of Probability</a></li>
    <li class="title"><a href="#course26">Universal Random Structures in 2D</a></li>
@@ -2017,8 +2017,17 @@
 </tbody>
 </table>
 </br>
+<h2 id ="course23">Graduate Biochemistry</h2>
 
+<ul>
+<li>The Major Concepts (<a href="2/fa01lec01.pdf">PDF</a>)</li>
+<li>Kinetics (<a href="2/fa01lec02.pdf">PDF</a>)</li>
+<li>Molecular Graphics (RasMol) (<a href="2/fa01lec03.pdf">PDF</a>)</li>
+<li>Obtaining CKS&trade; (Chemical Kinetics Simulator 1.01) (<a href="2/fa01lec04.pdf">PDF</a>)</li>
+<li>CKS Tutorial (<a href="2/fa01lec05.pdf">PDF</a>)</li>
+<li>Review of Chemical Thermodynamics (<a href="2/fa01lec06.pdf">PDF</a>)</li>
+<li>Review of Chemical Equilibrium (<a href="2/fa01lec07.pdf">PDF</a>)</li>
+<li>Mystery Protein (<a href="2/fa01lec08.pdf">PDF</a>)</li>
+</ul>
 
-
-
-
+</br>
